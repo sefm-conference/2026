@@ -3,7 +3,7 @@ layout: page_plain
 title: Venue
 permalink: /venue/
 order: 9
-published: false
+published: true
 ---
 Information will be published shortly. 
 

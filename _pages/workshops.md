@@ -3,7 +3,7 @@ layout: page_plain
 title: Workshops
 permalink: /workshops/
 order: 8
-published: false
+published: true
 ---
 
 The following workshops will be co-located with SEFM 2025 on 23-24 November of 2026. 
