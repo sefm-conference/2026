@@ -6,13 +6,13 @@ permalink: /acceptedpapers/
 order: 7
 published: true
 ---
-
+Information will be available in September 2026
+<!--
 <style>
 td > img { max-width: 48px } td:last-child { min-width: max-content }
 </style>
 
-Information will be available in September 2026
-<!--
+
 The following papers have been accepted at SEFM 2025.
 
 | Authors | Title |
