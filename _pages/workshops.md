@@ -3,13 +3,15 @@ layout: page_plain
 title: Workshops
 permalink: /workshops/
 order: 8
-published: true
+published: false
 ---
 
 The following workshops will be co-located with SEFM 2025 on 23-24 November of 2026. 
 
 TBD
+
 <!--
+
 CONFIRMED:
 
 - [DataMod 2025](https://datamod-symposium.github.io/DataMod-2025/), **10 & 11 November**: *13th International Symposium - From Data to Models and Back*  

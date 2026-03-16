@@ -3,10 +3,12 @@ layout: page_plain
 title: Venue
 permalink: /venue/
 order: 9
-published: true
+published: false
 ---
 Information will be published shortly. 
+
 <!--
+
 SEFM 2025 will take place at the University of Castilla-La Mancha (UCLM) in Toledo, Spain.
 
 The building is: Convento de San Pedro Martir, [link to Google Maps](https://maps.app.goo.gl/GjJqQSijpS2XbRCE8).
