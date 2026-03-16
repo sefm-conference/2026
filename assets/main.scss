@@ -1,0 +1,145 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import "minima";
+
+.page-content > p > img {
+  max-width: 50%;
+}
+
+.header-title {
+  float: right;
+  top: 26pt;
+  right: 30pt;
+  margin-bottom: -2em;
+  padding: 6pt 14pt;
+  background-color: color(srgb 0.0091 0.441 0.61/0.78);
+  color: white;
+  font-weight: bold;
+  font-size: 3em;
+  position: relative;
+}
+.header-optsubtitle {
+  float: right;
+  top: 36pt;
+  right: 260pt;
+  margin-bottom: -60pt;
+  padding: 6pt 14pt;
+  background-color: color(srgb 0.0092 0.37 0.1935 / 0.65);
+  color: white;
+  font-weight: bold;
+  font-size: 1.0em;
+  position: relative;
+  /* max-width: 43%; */
+  text-align: right;
+}
+.header-subtitle {
+  position: relative;
+  top: -1.5em;
+  left: 2em;
+  background-color: color(srgb 0.56 0.1512 0.2096 / 0.69);
+  padding: 3pt 6pt;
+  margin: -1em;
+  color: white;
+  font-weight: bold;
+  font-size: 1.4em;
+  width: fit-content;
+}
+.header-title a, .header-optsubtitle a{
+  color: white;
+}
+.header-title  a:hover, .header-optsubtitle a:hover {
+  color: rgb(149, 240, 255);
+}
+
+@include media-query($on-palm) {
+  .header-title {
+    top: 0.2em;
+    right: 2.0em;
+    font-size: 2em;
+    padding: 2pt 14pt;
+  }
+  .header-optsubtitle {
+    display: none;
+  }
+  .header-wrapper{
+    padding-right: 0px;
+    padding-left: 0px;
+  }
+  .site-title {
+    display: none;
+  }
+}
+
+@include media-query($on-palm) {
+  .page-content > p > img {
+    max-width: 100%;
+  }
+}
+
+.div-float-right {
+  float: right;
+  padding-bottom: 2em;
+  max-width: 50%;
+}
+
+@include media-query($on-palm) {
+  .div-float-right {
+    max-width: 100%;
+  }
+}
+
+table {
+  width: unset;
+}
+/*.site-nav .page-link:not(:last-child) {
+  margin-right: 24px;
+}*/
+
+.remark{
+  font-style: italic;
+  background-color: rgb(193, 205, 255);
+
+  border-width: 0pt;
+  margin-bottom: 10pt;
+  padding: 6pt;
+  margin-top: 10pt;
+  border-radius: 9px;
+}
+
+.editNote {
+  color: #999;
+  font-size: 0.8rem;
+  font-style: italic;
+  margin-top: 4rem;
+  margin-bottom: -1rem;
+}
+
+.editNote>a {
+  color: #999;
+  font-size: 0.8rem;
+  font-style: italic;
+  margin-top: 4rem;
+  margin-bottom: -3rem;
+  text-decoration: underline;
+}
+.editNote>a:visited { color: #999; }
+.editNote>a:hover { color: #666666; font-weight: 600; }
+
+img[title=logo] {
+  max-width: 320px !important;
+  max-height: 90px;
+  padding: 10px;
+}
+
+img[title=logoSmall] {
+  max-width: 320px !important;
+  max-height: 70px;
+  padding: 10px;
+}
+.thanks {
+  text-align:center;
+  font-size: 0.7rem;
+  /*color: #444;*/
+}

@@ -1,2 +1,2 @@
-# 2026
-Website of the 24th International Conference on Software Engineering and Formal Methods
+# 2025
+Website of the SEFM 2025 Conference
