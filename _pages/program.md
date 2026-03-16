@@ -8,14 +8,16 @@ published: true
 TBD
 
 <!--
+
 Below is the main program of SEFM, to check for directions of the venue see the page [venue]({{ site.baseurl }}{% link _pages/venue.md %}).
 Details on the workshop program can be found [here]({{ site.baseurl }}{% link _pages/workshops.md %}).
 
 **Important:** All presentations will be held in **Sala de Música (Wednesday and Friday) and Teatrillo (Thursday)**.
-
+-->
 
 ## Wednesday, November 12, Sala de Música
 
+<!--
 | Time | Session | Details |
 |------|----------|----------|
 | 09:30 – 10:00 | **Registration** | In front of Sala de Música (San Pedro Mártir Building) |
@@ -32,7 +34,9 @@ Details on the workshop program can be found [here]({{ site.baseurl }}{% link _p
 | 18:00 – 20:00 | **Sightseeing tour** | The tour will start at San Pedro Mártir and conclude at the restaurant where the welcome reception will take place. |
 | 20:30 – 22:30 | **Welcome Reception** | **Hacienda del Cardenal**, Paseo de Recaredo, 24. 45002 Toledo<br>[Website](https://www.haciendadelcardenal.com/) · [Maps](https://maps.app.goo.gl/TCkUzmASxkaDNWjH9) |
 
+-->
 
+<!--
 ## Thursday, November 13, Teatrillo
 
 | Time | Session | Details |
@@ -50,8 +54,8 @@ Details on the workshop program can be found [here]({{ site.baseurl }}{% link _p
 | 16:30 – 17:00 | **Coffee break** |  |
 | 20:30 – 22:30 | **Conference Dinner** | **La Clandestina de Tendillas**, Calle Tendillas, 3. 45002 Toledo<br>[Website](https://clandestina.la/) [Maps](https://maps.app.goo.gl/KYymKMeGRBAdz4ab6) |
 
-
-
+-->
+<!--
 ## Friday, November 14, Sala de Música
 
 | Time | Session | Details |
