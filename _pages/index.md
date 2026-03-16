@@ -4,27 +4,28 @@ permalink: /
 ---
 
 {: .notice--info}
-**Latest update:** [LNCS 16192](/2025/lncs16192/) free access link has been added to the website.
+<!--**Latest update:** [LNCS 16192](/2025/lncs16192/) free access link has been added to the website.
+-->
 
-<h2 class="secondH">Welcome to SEFM 2025</h2>
-The 23nd edition of the International Conference on Software Engineering and
-Formal Methods will be held between 10 and 14 November 2025.
+<h2 class="secondH">Welcome to SEFM 2026</h2>
+The 24th edition of the International Conference on Software Engineering and
+Formal Methods will be held between 23 and 27 November 2026.
 
 The conference aims to bring together researchers and practitioners from academia,
 industry and government, to advance the state of the art in formal methods,
 to facilitate their uptake in the software industry, and to encourage their
 integration within practical software engineering methods and tools.
 
-<!-- ## Important dates
-- Abstract submission: To be announced
-- Paper submission: To be announced
+## Important dates
+- Abstract submission: June 16 2026
+- Paper submission: June 23 2026
 - Artifact submission (tool papers): To be announced
 - Artifact submission (regular papers): To be announced
-- Author notification: To be announced
-- Camera-ready submission: To be announced
-- Workshops: 10-11 November 2025
-- Conference: 12-14 November 2024
--->
+- Author notification: August 30 2026
+- Camera-ready submission: September 14 2026 
+- Workshops: 23-24 November 2026
+- Main Conference: 25-27 November 2026
+
 
 ## Previous editions
 {: .secondH}
