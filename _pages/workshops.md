@@ -18,7 +18,9 @@ CONFIRMED:
 organised by
 RLivia Lestingi (Politecnico di Milano, Italy) and
 Gwen Salaün (Université Grenoble Alpes, France).
+-->
 
+<!--
 
 - [CIFMA 2025](https://cifma.github.io), **11 November**: *7th International Workshop on Cognition: Interdisciplinary Foundations, Models and Applications*  
 organised by
@@ -30,5 +32,4 @@ organised by
 José Proença (University of Porto, Portugal) and
 Umberto Rivieccio (Universidad Nacional de Educación a Distancia, Spain).
 
-...
 -->
