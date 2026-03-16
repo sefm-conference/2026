@@ -19,17 +19,17 @@
 # in the templates via {{ site.myvariable }}.
 
 include: [_pages]
-title: SEFM 2025
-subtitle: 23rd International Conference on Software Engineering and Formal Methods
-date: 10-14 November 2025, Toledo, Spain
-baseurl: "/2025" # the subpath of your site, e.g. /blog
+title: SEFM 2026
+subtitle: 24th International Conference on Software Engineering and Formal Methods
+date: 23 -27 November 2026, Malta
+baseurl: "/2026" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 global_banner: >
-  **Last news:** Free online access to the SEFM 2025 proceedings (LNCS 16192) is now available.
-  [Access the proceedings](https://sefm-conference.github.io/2025/lncs16192/).
+#  **Last news:** Free online access to the SEFM 2025 proceedings (LNCS 16192) is now available.
+#  [Access the proceedings](https://sefm-conference.github.io/2025/lncs16192/).
  
 
-copyright: "SEFM 2025"
+copyright: "SEFM 2026"
 # Build settings
 # theme: minima
 plugins:
