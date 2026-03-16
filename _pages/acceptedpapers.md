@@ -11,6 +11,8 @@ published: true
 td > img { max-width: 48px } td:last-child { min-width: max-content }
 </style>
 
+Information will be available in September 2026
+<!--
 The following papers have been accepted at SEFM 2025.
 
 | Authors | Title |
@@ -32,3 +34,4 @@ The following papers have been accepted at SEFM 2025.
 | Katrine Christensen (IT University of Copenhagen); Mahsa Varshosaz (IT University of Copenhagen); Raúl Pardo (IT University of Copenhagen) | ProbTest: Unit Testing for Probabilistic Programs |
 
 
+-->

@@ -6,23 +6,27 @@ order: 4
 published: true
 ---
 ## General Chair
-[Manuel Núñez](https://antares.sip.ucm.es/manolo/), Complutense University of Madrid, Spain
-
+<!--[Manuel Núñez](https://antares.sip.ucm.es/manolo/), Complutense University of Madrid, Spain
+-->
 ## Programme Committee Chairs
-[Domenico Bianculli](https://people.svv.lu/bianculli/), University of Luxembourg, Luxembourg\
-Elena Gómez-Martínez, Complutense University of Madrid, Spain
+[Adrian Francalanza](https://staff.um.edu.mt/afra1/), University of Malta, Malta\
+[Ajitha Rajan](https://homepages.inf.ed.ac.uk/arajan/), University of Edinburgh, UK
 
 ## Workshops Chair
-Ignacio Requeno, Complutense University of Madrid
-
+TBD
+<!--Ignacio Requeno, Complutense University of Madrid
+-->
 ## Proceedings Chair
-[Drishti Yadav](https://orcid.org/0000-0002-2974-0323), University of Luxembourg, Luxembourg
-
+TBD
+<!--[Drishti Yadav](https://orcid.org/0000-0002-2974-0323), University of Luxembourg, Luxembourg
+-->
 ## Publicity Chair 
-[Miguel Benito Parejo](https://antares.sip.ucm.es/miguel), Complutense University of Madrid, Spain
-
+TBD
+<!--[Miguel Benito Parejo](https://antares.sip.ucm.es/miguel), Complutense University of Madrid, Spain
+-->
 ## Programme Committee
-
+TBD
+<!--
 Adrian	Francalanza,	University of Malta, Malta\
 Alcino	Cunha,	INESC TEC & Universidade do Minho, Portugal\
 Alexander	Knapp,	Universität Augsburg, Germany\
@@ -62,7 +66,7 @@ Tolga	Ovatman,	Istanbul Technical University, Turkey\
 Víctor	Braberman,	UBA/CONICET, Argentina\
 Violet Ka I	Pun,	Western Norway University of Applied Sciences, Norway\
 Volker	Stolz,	Western Norway University of Applied Sciences, Norway\
-
+-->
 
 ## Steering Committee
 [Radu Calinescu](https://www-users.cs.york.ac.uk/~raduc/), University of York, UK \
@@ -77,6 +81,7 @@ Elena Gómez-Martínez, Complutense University of Madrid, Spain \
 [Manuel Núñez](https://antares.sip.ucm.es/manolo/), Complutense University of Madrid, Spain
 
 ## Local Organisation
+<!--
 [Maria Emilia Cambronero](), University of Castilla-La Mancha, Spain\
 [Encarnación Moyano](), University of Castilla-La Mancha, Spain\
 [Jose Antonio Mateo](), University of Castilla-La Mancha, Spain\
@@ -84,10 +89,12 @@ Elena Gómez-Martínez, Complutense University of Madrid, Spain \
 [Miguel Benito-Parejo](https://antares.sip.ucm.es/miguel), Complutense University of Madrid, Spain\
 [Manuel Méndez](), Complutense University of Madrid, Spain\
 [Sinhué García Gil](https://informatica.ucm.es/directorio/?id=39114), Complutense University of Madrid, Spain
-
+-->
 
 ## Website
+<!--
 [Gregorio Díaz](https://directorio.uclm.es/persona.aspx?cod=J4/W666fhV5Dgdj3hBKVxGU4VnuRezNS), University of Castilla-La Mancha, Spain
+-->
 
 <!-- Edit the content of this page [here](https://github.com/sefm-conference/2024/blob/main/_pages/committees.md).
 {: .editNote}

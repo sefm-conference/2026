@@ -6,16 +6,16 @@ permalink: /callforpapers/
 order: 2
 published: true
 ---
-The 23rd edition of the International Conference on Software Engineering and
-Formal Methods will be held between 12 and 14 November 2025, with workshops taking place on 10 and 11 November 2025.
+The 24th edition of the International Conference on Software Engineering and
+Formal Methods will be held between 23 and 27 November 2026, with workshops taking place on 23 and 24 November 2026.
 
 ## Important dates - AoE (UTC-12h)
-- Abstract submission: ~~June 6~~ **June 16**, 2025 (Updated)
-- Paper submission: ~~June 20~~ **June 23**, 2025 (Updated)
-- Author notification: August 11, 2025
-- Camera ready: August 29, 2025
-- Workshops: 10-11 November 2025
-- Conference: 12-14 November 2025
+- Abstract submission: June 16, 2026
+- Paper submission: June 23, 2026 
+- Author notification: August 30, 2026
+- Camera ready: September 14, 2026
+- Workshops: 23-24 November 2026
+- Conference: 25-27 November 2026
 
 ## Overview and Scope
 
@@ -73,11 +73,13 @@ We solicit two categories of papers:
 Papers must be formatted according to the [guidelines for Springer LNCS papers](https://www.springer.com/gp/computer-science/lncs).
 All submissions must be original, unpublished, and not submitted concurrently for publication elsewhere. 
 
+<!--
 Papers can be submitted through Microsoft CMT:
 [https://cmt3.research.microsoft.com/SEFM2025](https://cmt3.research.microsoft.com/SEFM2025)
-
+-->
 
 ## Publication
 
 All accepted papers will appear in the proceedings of the conference that will be published as a volume in Springer’s LNCS series.
+
 

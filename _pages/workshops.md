@@ -6,9 +6,10 @@ order: 8
 published: true
 ---
 
-The following workshops will be co-located with SEFM 2025 on 10-11 November of 2025. 
+The following workshops will be co-located with SEFM 2025 on 23-24 November of 2026. 
 
-
+TBD
+<!--
 CONFIRMED:
 
 - [DataMod 2025](https://datamod-symposium.github.io/DataMod-2025/), **10 & 11 November**: *13th International Symposium - From Data to Models and Back*  
@@ -28,3 +29,4 @@ José Proença (University of Porto, Portugal) and
 Umberto Rivieccio (Universidad Nacional de Educación a Distancia, Spain).
 
 ...
+-->

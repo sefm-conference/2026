@@ -9,6 +9,7 @@ hide: false
 
 Here you can find information about registration for the conference as well as the registration fees.
 
+<!--
 Early registration deadline for SEFM 2025 (550€): **September 30, 2025.**
 
 SEFM 2025 registration includes attendance to SEFM lectures, lunches, coffee breaks, welcome reception and conference dinner. 
@@ -19,5 +20,5 @@ Workshop registration includes attendance to the lectures of the corresponding w
 
 **Registration form at [https://share.google/PO3W1ssAfoaPQYs4C](https://share.google/PO3W1ssAfoaPQYs4C)**
 
-
+-->
  

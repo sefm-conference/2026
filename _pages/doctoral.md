@@ -17,10 +17,10 @@ The doctoral symposium aims to provide an engaging and informal environment wher
 All PhD students doing research related to software engineering and formal methods are invited to submit a Research Abstract for consideration.  The topics of interest include all the aspects of software engineering and formal methods listed at the SEFM'24 main call for papers.
 
 ## Abstract submission
-
+<!--
 Abstracts can be submitted through Easychair:
 [https://easychair.org/conferences/?conf=sefm24](https://easychair.org/conferences/?conf=sefm25)
-
+-->
 ## Publication
 
 TO BE ANNOUNCED
