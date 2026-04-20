@@ -25,7 +25,7 @@ date: 23 -27 November 2026, Malta
 baseurl: "/2026" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 global_banner: >
-#  **Last news:** Free online access to the SEFM 2025 proceedings (LNCS 16192) is now available.
+#  **Last news:** Free online access to the SEFM 2026 proceedings (LNCS 16192) is now available.
 #  [Access the proceedings](https://sefm-conference.github.io/2025/lncs16192/).
  
 

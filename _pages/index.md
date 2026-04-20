@@ -21,8 +21,8 @@ integration within practical software engineering methods and tools.
 - Paper submission: June 23 2026
 - Artifact submission (tool papers): To be announced
 - Artifact submission (regular papers): To be announced
-- Author notification: August 30 2026
-- Camera-ready submission: September 14 2026 
+- Author notification: September 7 2026
+- Camera-ready submission: September 21 2026 
 - Workshops: 23-24 November 2026
 - Main Conference: 25-27 November 2026
 
@@ -34,12 +34,12 @@ Listed in [https://sefm-conference.github.io](https://sefm-conference.github.io)
 
 ## Sponsors
 {: .secondH}
-
 {:style="text-align:center;"}
+<!--
 [![UCLM logo]({{ site.baseurl }}{% link assets/UCLM_logo.png %} "logo")](https://www.uclm.es/){:target="blank"}
 [![UCM logo]({{ site.baseurl }}{% link assets/UCM_logo.svg %} "logo")](https://www.ucm.es/){:target="blank"}
 [![GRANTS_logo]({{ site.baseurl }}{% link assets/GRANTS_logo.png %} "logo")]([https://www.universidades.gob.es/){:target="blank"}
-
+-->
 
 <!--
 ## Sponsors
