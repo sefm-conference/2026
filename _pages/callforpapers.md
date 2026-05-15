@@ -30,6 +30,7 @@ software engineering and formal methods.
 <h4 class="areas">Software Development Methods</h4>
 - Formal modelling, specification, and design
 - Software evolution, maintenance, re-engineering, and reuse
+- Software Engineering for AI models, code, libraries  or systems with AI components
 
 <h4 class="areas">Design Principles</h4>
 - Programming languages
@@ -50,6 +51,8 @@ properties
 - Security, privacy, and trust
 - Safety-critical, fault-tolerant, and secure systems
 - Software certification
+- Formal methods for AI safety, explainability, and machine learning models
+- Trustworthy AI for Software Engineering
 
 <h4 class="areas">Applications and Technology Transfer</h4>
 - Service-oriented and cloud computing systems, Internet of Things
