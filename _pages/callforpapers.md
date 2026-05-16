@@ -65,6 +65,12 @@ properties
 
 <h4 class="areas">Case studies, best practices, and experience reports</h4>
 
+- Industrial application of formal methods
+- Empirical evaluations and benchmarking
+- Experience in securing critical infrastructure
+- Integration of formal methods in modern development pipelines
+
+
 ## Paper submission
 
 We solicit two categories of papers:
