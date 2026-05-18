@@ -82,10 +82,8 @@ We solicit two categories of papers:
 Papers must be formatted according to the [guidelines for Springer LNCS papers](https://www.springer.com/gp/computer-science/lncs).
 All submissions must be original, unpublished, and not submitted concurrently for publication elsewhere. 
 
-<!--
-Papers can be submitted through Microsoft CMT:
-[https://cmt3.research.microsoft.com/SEFM2025](https://cmt3.research.microsoft.com/SEFM2025)
--->
+Papers can be submitted through Easychair:
+[https://easychair.org/my/conference?conf=sefm2026](https://easychair.org/my/conference?conf=sefm2026)
 
 ## Publication
 
