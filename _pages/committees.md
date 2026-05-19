@@ -189,7 +189,6 @@ Elena Gómez-Martínez, Complutense University of Madrid, Spain \
 <td>Chengyu Zhang</td>
     <td> East China Normal University</td>
   </tr>
-</table>
 
 <!--
 Adrian	Francalanza,	University of Malta, Malta\
