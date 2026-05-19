@@ -65,6 +65,10 @@ Elena Gómez-Martínez, Complutense University of Madrid, Spain \
     <td> University of Minho</td>
   </tr>
 <tr>
+<td>Aidan Dakhama </td>
+    <td> Kings College London</td>
+  </tr>
+<tr>
 <td>Leuson Da Silva </td>
     <td>	Polytechnique Montreal</td>
   </tr>
@@ -95,6 +99,10 @@ Elena Gómez-Martínez, Complutense University of Madrid, Spain \
 <tr>
 <td>Sung-Shik Jongmans </td>
     <td> University of Groningen</td>
+  </tr>
+<tr>
+<td>Nafiseh Kahani </td>
+    <td> Carleton University</td>
   </tr>
 <tr>
 <td>Alexander Knapp </td>
