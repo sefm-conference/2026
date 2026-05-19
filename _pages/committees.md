@@ -32,7 +32,6 @@ Matteo Cimini, University of Massachusetts Lowell\
 Alcino Cunha, University of Minho\
 Leuson Da Silva,	Polytechnique Montreal\
 Gidon Ernst. Ludwig Maximilian University of Munich\
-<!--Adrian	Francalanza	University of Malta-->
 Carlo A.Furia, USI - Università della Svizzera Italiana\
 Mario Gleirscher \
 Hannah Gommerstadt, Vassar College\
@@ -54,7 +53,6 @@ Jovanka	Pantovic, University of Novi Sad, Faculty of Technical Sciences\
 Chao Peng, Bytedance\
 Kirstin	Peters, Universität Augsburg\
 Violet Ka L Pun, University of Oslo\
-<!--Ajitha	Rajan	University of Edinburgh-->
 Kirstin	Rozier, Iowa State University\
 Gwen Salaün, University of Grenoble Alpes\
 Alceste	Scalas, DTU Compute - Technical University of Denmark\
