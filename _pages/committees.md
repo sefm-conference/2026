@@ -47,8 +47,7 @@ Elena Gómez-Martínez, Complutense University of Madrid, Spain \
 </tr>
 <tr>
 <td>Simon Bliudze </td> 
-<td> INRIA<\td>
-</tr>
+<td> INRIA <\td> </tr>
 <tr>
 <td>Yufan Cai</td>
     <td> National University of Singapore</td>
