@@ -47,7 +47,7 @@ Elena Gómez-Martínez, Complutense University of Madrid, Spain \
 </tr>
 <tr>
 <td>Simon Bliudze </td> 
-<td> INRIA <\td> </tr>
+<td> INRIA </td> </tr>
 <tr>
 <td>Yufan Cai</td>
     <td> National University of Singapore</td>
@@ -188,7 +188,7 @@ Elena Gómez-Martínez, Complutense University of Madrid, Spain \
 <td>Chengyu Zhang</td>
     <td> East China Normal University</td>
   </tr>
-
+</table>
 <!--
 Adrian	Francalanza,	University of Malta, Malta\
 Alcino	Cunha,	INESC TEC & Universidade do Minho, Portugal\
