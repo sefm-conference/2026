@@ -96,7 +96,7 @@ TBD
   </tr>
 <tr>
 <td>Carlos Gustavo Lopez Pombo </td>
-    <td> Escuela de Producción, Tecnologíay Medio Ambiente, Universidad Nacional de Río Negro and CONICET</td>
+    <td> Universidad Nacional de Río Negro and CONICET</td>
   </tr>
 <tr>
 <td>Alexandre Madeira </td>
@@ -217,6 +217,7 @@ Víctor	Braberman,	UBA/CONICET, Argentina\
 Violet Ka I	Pun,	Western Norway University of Applied Sciences, Norway\
 Volker	Stolz,	Western Norway University of Applied Sciences, Norway\
 -->
+
 
 ## Steering Committee
 [Radu Calinescu](https://www-users.cs.york.ac.uk/~raduc/), University of York, UK \
