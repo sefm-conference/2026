@@ -25,42 +25,156 @@ TBD
 <!--[Miguel Benito Parejo](https://antares.sip.ucm.es/miguel), Complutense University of Madrid, Spain
 -->
 ## Programme Committee
-Simon Bliudze,	INRIA\
-Yufan Cai, National University of Singapore\
-Taolue Chen, Birkbeck, University of London\
-Matteo Cimini, University of Massachusetts Lowell\
-Alcino Cunha, University of Minho\
-Leuson Da Silva,	Polytechnique Montreal\
-Gidon Ernst. Ludwig Maximilian University of Munich\
-Carlo A.Furia, USI - Università della Svizzera Italiana\
-Mario Gleirscher \
-Hannah Gommerstadt, Vassar College\
-Marie-Christine Jakobs, LMU München\
-Eunkyoung Jee, Korea Advanced Institute of Science and Technology\
-Sung-Shik Jongmans, University of Groningen\
-Alexander Knapp, Universität Augsburg\
-Burcu Kulahcioglu Ozkan, Delft University of Technology\
-Didier Lime, Ecole Centrale de Nantes, LS2N\
-Carlos Gustavo Lopez Pombo, Escuela de Producción, Tecnologíay Medio Ambiente, Universidad Nacional de Río Negro and CONICET\
-Alexandre Madeira, University of Aveiro, Portugal\
-Claudio	Mandrioli, University of Luxembourg, Software Verification and Validation\
-Inmaculada Medina-Bulo, Department of Computer Languages and Systems, University of Cadiz\
-Stephan	Merz, Inria Nancy\
-Rodrigo	Otoni, University of Groningen\
-Tolga Ovatman, Istanbul Technical University\
-Laura Panizo, University of Málaga\
-Jovanka	Pantovic, University of Novi Sad, Faculty of Technical Sciences\
-Chao Peng, Bytedance\
-Kirstin	Peters, Universität Augsburg\
-Violet Ka L Pun, University of Oslo\
-Kirstin	Rozier, Iowa State University\
-Gwen Salaün, University of Grenoble Alpes\
-Alceste	Scalas, DTU Compute - Technical University of Denmark\
-Marjan Sirjani,	Malardalen University\
-Volker Stolz, Høgskulen på Vestlandet\
-Emilio Tuosto, Gran Sasso Science Institute \
-Tim Willemse, Eindhoven University of Technology\
-Chengyu	Zhang, East China Normal University
+<table>
+<tr>
+<th>PC Member </th>
+<th> Organisation </th>
+</tr>
+<tr>
+<td>Simon Bliudze </td> 
+<td> INRIA<\td>
+</tr>
+<tr>
+<td>Yufan Cai</td>
+    <td> National University of Singapore</td>
+  </tr>
+<tr>
+<td>Taolue Chen</td>
+    <td> Birkbeck, University of London</td>
+  </tr>
+<tr>
+<td>Matteo Cimini</td>
+    <td> University of Massachusetts Lowell</td>
+  </tr>
+<tr>
+<td>Alcino Cunha </td>
+    <td> University of Minho</td>
+  </tr>
+<tr>
+<td>Leuson Da Silva </td>
+    <td>	Polytechnique Montreal</td>
+  </tr>
+<tr>
+<td>Gidon Ernst </td>
+    <td> Ludwig Maximilian University of Munich</td>
+  </tr>
+<tr>
+<td>Carlo A.Furia </td>
+    <td> USI - Università della Svizzera Italiana</td>
+  </tr>
+<tr>
+<td>Mario Gleirscher </td>
+<td> No Affiliation </td>
+  </tr>
+<tr>
+<td>Hannah Gommerstadt </td>
+    <td> Vassar College</td>
+  </tr>
+<tr>
+<td>Marie-Christine Jakobs </td>
+    <td> LMU München</td>
+  </tr>
+<tr>
+<td>Eunkyoung Jee </td>
+    <td> Korea Advanced Institute of Science and Technology</td>
+  </tr>
+<tr>
+<td>Sung-Shik Jongmans </td>
+    <td> University of Groningen</td>
+  </tr>
+<tr>
+<td>Alexander Knapp </td>
+    <td> Universität Augsburg</td>
+  </tr>
+<tr>
+<td>Burcu Kulahcioglu Ozkan </td>
+    <td> Delft University of Technology</td>
+  </tr>
+<tr>
+<td>Didier Lime </td>
+    <td> Ecole Centrale de Nantes, LS2N</td>
+  </tr>
+<tr>
+<td>Carlos Gustavo Lopez Pombo </td>
+    <td> Escuela de Producción, Tecnologíay Medio Ambiente, Universidad Nacional de Río Negro and CONICET</td>
+  </tr>
+<tr>
+<td>Alexandre Madeira </td>
+    <td> University of Aveiro, Portugal</td>
+  </tr>
+<tr>
+<td>Claudio Mandrioli </td>
+    <td> University of Luxembourg, Software Verification and Validation</td>
+  </tr>
+<tr>
+<td>Inmaculada Medina-Bulo </td>
+    <td> Department of Computer Languages and Systems, University of Cadiz</td>
+  </tr>
+<tr>
+<td>Stephan Merz </td>
+    <td> Inria Nancy</td>
+  </tr>
+<tr>
+<td>Rodrigo Otoni </td>
+    <td> University of Groningen</td>
+  </tr>
+<tr>
+<td>Tolga Ovatman </td>
+    <td> Istanbul Technical University</td>
+  </tr>
+<tr>
+<td>Laura Panizo </td>
+    <td> University of Málaga</td>
+  </tr>
+<tr>
+<td>Jovanka Pantovic </td>
+    <td> University of Novi Sad, Faculty of Technical Sciences</td>
+  </tr>
+<tr>
+<td>Chao Peng </td>
+    <td> Bytedance</td>
+  </tr>
+<tr>
+<td>Kirstin Peters </td>
+    <td> Universität Augsburg</td>
+  </tr>
+<tr>
+<td>Violet Ka L Pun </td>
+    <td> University of Oslo</td>
+  </tr>
+<tr>
+<td>Kirstin Rozier </td>
+    <td> Iowa State University</td>
+  </tr>
+<tr>
+<td>Gwen Salaün </td>
+    <td> University of Grenoble Alpes</td>
+  </tr>
+<tr>
+<td>Alceste Scalas </td>
+    <td> DTU Compute - Technical University of Denmark</td>
+  </tr>
+<tr>
+<td>Marjan Sirjani </td>
+    <td> Malardalen University</td>
+  </tr>
+<tr>
+<td>Volker Stolz </td>
+    <td> Høgskulen på Vestlandet</td>
+  </tr>
+<tr>
+<td>Emilio Tuosto</td>
+    <td> Gran Sasso Science Institute </td>
+  </tr>
+<tr>
+<td>Tim Willemse</td>
+    <td> Eindhoven University of Technology</td>
+  </tr>
+<tr>
+<td>Chengyu Zhang</td>
+    <td> East China Normal University</td>
+  </tr>
+</table>
 
 <!--
 Adrian	Francalanza,	University of Malta, Malta\
