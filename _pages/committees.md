@@ -25,7 +25,45 @@ TBD
 <!--[Miguel Benito Parejo](https://antares.sip.ucm.es/miguel), Complutense University of Madrid, Spain
 -->
 ## Programme Committee
-TBD
+Simon Bliudze,	INRIA\
+Yufan Cai, National University of Singapore\
+Taolue Chen, Birkbeck, University of London\
+Matteo Cimini, University of Massachusetts Lowell\
+Alcino Cunha, University of Minho\
+Leuson Da Silva,	Polytechnique Montreal\
+Gidon Ernst. Ludwig Maximilian University of Munich\
+<!--Adrian	Francalanza	University of Malta-->
+Carlo A.Furia, USI - Università della Svizzera Italiana\
+Mario Gleirscher \
+Hannah Gommerstadt, Vassar College\
+Marie-Christine Jakobs, LMU München\
+Eunkyoung Jee, Korea Advanced Institute of Science and Technology\
+Sung-Shik Jongmans, University of Groningen\
+Alexander Knapp, Universität Augsburg\
+Burcu Kulahcioglu Ozkan, Delft University of Technology\
+Didier Lime, Ecole Centrale de Nantes, LS2N\
+Carlos Gustavo Lopez Pombo, Escuela de Producción, Tecnologíay Medio Ambiente, Universidad Nacional de Río Negro and CONICET\
+Alexandre Madeira, University of Aveiro, Portugal\
+Claudio	Mandrioli, University of Luxembourg, Software Verification and Validation\
+Inmaculada Medina-Bulo, Department of Computer Languages and Systems, University of Cadiz\
+Stephan	Merz, Inria Nancy\
+Rodrigo	Otoni, University of Groningen\
+Tolga Ovatman, Istanbul Technical University\
+Laura Panizo, University of Málaga\
+Jovanka	Pantovic, University of Novi Sad, Faculty of Technical Sciences\
+Chao Peng, Bytedance\
+Kirstin	Peters, Universität Augsburg\
+Violet Ka L Pun, University of Oslo\
+<!--Ajitha	Rajan	University of Edinburgh-->
+Kirstin	Rozier, Iowa State University\
+Gwen Salaün, University of Grenoble Alpes\
+Alceste	Scalas, DTU Compute - Technical University of Denmark\
+Marjan Sirjani,	Malardalen University\
+Volker Stolz, Høgskulen på Vestlandet\
+Emilio Tuosto, Gran Sasso Science Institute \
+Tim Willemse, Eindhoven University of Technology\
+Chengyu	Zhang, East China Normal University
+
 <!--
 Adrian	Francalanza,	University of Malta, Malta\
 Alcino	Cunha,	INESC TEC & Universidade do Minho, Portugal\
