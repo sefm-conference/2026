@@ -6,24 +6,23 @@ order: 4
 published: true
 ---
 ## General Chair
-<!--[Manuel Núñez](https://antares.sip.ucm.es/manolo/), Complutense University of Madrid, Spain
--->
+[Adrian Francalanza](https://staff.um.edu.mt/afra1/), University of Malta, Malta
+
 ## Programme Committee Chairs
 [Adrian Francalanza](https://staff.um.edu.mt/afra1/), University of Malta, Malta\
 [Ajitha Rajan](https://homepages.inf.ed.ac.uk/arajan/), University of Edinburgh, UK
 
 ## Workshops Chair
 TBD
-<!--Ignacio Requeno, Complutense University of Madrid
--->
-## Proceedings Chair
-TBD
+[Duncan Paul Attard](mailto:duncan.attard@um.edu.mt), University of Malta
+
+<!-- ## Proceedings Chair
+TBD -->
 <!--[Drishti Yadav](https://orcid.org/0000-0002-2974-0323), University of Luxembourg, Luxembourg
 -->
 ## Publicity Chair 
 TBD
-<!--[Miguel Benito Parejo](https://antares.sip.ucm.es/miguel), Complutense University of Madrid, Spain
--->
+[Marietta Galea](mailto:marietta.galea@um.edu.mt), University of Malta
 
 ## Steering Committee
 [Radu Calinescu](https://www-users.cs.york.ac.uk/~raduc/), University of York, UK \
