@@ -13,7 +13,7 @@ published: true
 [Ajitha Rajan](https://homepages.inf.ed.ac.uk/arajan/), University of Edinburgh, UK
 
 ## Workshops Chair
-TBD
+
 [Duncan Paul Attard](mailto:duncan.attard@um.edu.mt), University of Malta
 
 <!-- ## Proceedings Chair
@@ -21,7 +21,7 @@ TBD -->
 <!--[Drishti Yadav](https://orcid.org/0000-0002-2974-0323), University of Luxembourg, Luxembourg
 -->
 ## Publicity Chair 
-TBD
+
 [Marietta Galea](mailto:marietta.galea@um.edu.mt), University of Malta
 
 ## Steering Committee
