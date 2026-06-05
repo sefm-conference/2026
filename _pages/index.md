@@ -19,8 +19,8 @@ integration within practical software engineering methods and tools.
 ## Important dates
 - Abstract submission: June 16 2026
 - Paper submission: June 23 2026
-- Artifact submission (tool papers): To be announced
-- Artifact submission (regular papers): To be announced
+- Artifact submission (tool and regular papers): July 22 2026
+- Artefact Evaluation kick-the-tires: July 25 2026 
 - Author notification: September 7 2026
 - Camera-ready submission: September 21 2026 
 - Workshops: 23-24 November 2026

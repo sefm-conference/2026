@@ -13,8 +13,10 @@ published: true
 [Ajitha Rajan](https://homepages.inf.ed.ac.uk/arajan/), University of Edinburgh, UK
 
 ## Workshops Chair
-
 [Duncan Paul Attard](mailto:duncan.attard@um.edu.mt), University of Malta
+
+## Tool Evaluation Chair
+[Gerard Tabone](mailto:gerard.tabone@um.edu.mt), University of Malta
 
 <!-- ## Proceedings Chair
 TBD -->
