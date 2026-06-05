@@ -10,12 +10,14 @@ The 24th edition of the International Conference on Software Engineering and
 Formal Methods will be held between 23 and 27 November 2026, with workshops taking place on 23 and 24 November 2026.
 
 ## Important dates - AoE (UTC-12h)
-- Abstract submission: June 16, 2026
-- Paper submission: June 23, 2026 
-- Author notification: August 30, 2026
-- Camera ready: September 14, 2026
-- Workshops: 23-24 November 2026
-- Conference: 25-27 November 2026
+- Abstract submission:     June 16, 2026
+- Paper submission:        June 23, 2026
+- Artifact submission:     July 22 2026
+- Artefact kick-the-tires: July 25 2026 
+- Author notification:     August 30, 2026
+- Camera ready:            September 14, 2026
+- Workshops:               23-24 November 2026
+- Conference:              25-27 November 2026
 
 ## Overview and Scope
 
