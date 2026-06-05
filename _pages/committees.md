@@ -81,7 +81,7 @@ Elena Gómez-Martínez, Complutense University of Madrid, Spain \
   </tr>
 <tr>
 <td>Mario Gleirscher </td>
-<td> No Affiliation </td>
+<td> ENSTA | Institut Polytechnique de Paris </td>
   </tr>
 <tr>
 <td>Hannah Gommerstadt </td>
