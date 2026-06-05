@@ -9,7 +9,7 @@ published: true
 The following workshops will be co-located with SEFM 2026 on **24 November 2026**.
 Workshops will be held at the University of Malta Valletta Campus.
 
-- [STaRS 2026](#), *1st International Workshop on Static and Runtime Verification Synergies*
+- [STARS 2026](https://stars-workshop.github.io), *1st International Workshop on Static and Runtime Verification Synergies*
 
   Organised by
   **Alceste Scalas** (Technical University of Denmark, Denmark) and
