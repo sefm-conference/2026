@@ -75,7 +75,7 @@ properties
 
 ## Paper submission
 
-We solicit two categories of papers:
+We solicit three categories of papers:
 
 - **Regular papers** describing original research results, case studies, or surveys, should not exceed *16 pages* (excluding bibliography of at most two pages).
 - **Short papers** describing original research results or case studies, maybe in an incubation phase, should not exceed *8 pages* (exculuding bibliography of at most one page).
