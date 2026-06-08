@@ -89,7 +89,7 @@ Papers can be submitted through Easychair:
 
 ## Artefact submission
 
-Regular papers may optionally submit artefacts, such as data sets, software tools, or supplementary material. Artefacts will be evaluated for the EAPLS Available <img src="/2026/assets/artifact-available.png" width="50%" alt="Available badge">, Functional <img src="/2026/assets/artifact-functional.png" width="2%" alt="Functional badge">, and Reusable <img src="/2026/assets/artifact-reusable.png" width="2%" alt="Reusable badge"> badges. Authors should consult the [artefact submission guidelines](/2026/assets/artefact-submission-guidelines.pdf) when preparing their submission.
+Regular papers may optionally submit artefacts, such as data sets, software tools, or supplementary material. Artefacts will be evaluated for the EAPLS Available <img src="/2026/assets/artifact-available.png" width="2%" alt="Available badge">, Functional <img src="/2026/assets/artifact-functional.png" width="2%" alt="Functional badge">, and Reusable <img src="/2026/assets/artifact-reusable.png" width="2%" alt="Reusable badge"> badges. Authors should consult the [artefact submission guidelines](/2026/assets/artefact-submission-guidelines.pdf) when preparing their submission.
 
 Artefacts accompanying tool papers must satisfy at least the requirements of the EAPLS Functional badge. Tool papers whose artefacts do not meet this requirement will be rejected.
 
