@@ -79,7 +79,7 @@ We solicit three categories of papers:
 
 - **Regular papers** describing original research results, case studies, or surveys, should not exceed *16 pages* (excluding bibliography of at most two pages).
 - **Short papers** describing original research results or case studies, maybe in an incubation phase, should not exceed *8 pages* (exculuding bibliography of at most one page).
-- **Tool papers** that describe an operational tool and its contributions should not exceed *8 pages* (exculuding bibliography of at most one page). Tool papers must submit a separate artefact for evaluation. Artefact acceptance is mandatory for tool paper acceptance. Moreover, artefact acceptance is conditional on acceptance of the corresponding tool paper (see [Artefact submission](#artefact-submission)).
+- **Tool papers** that describe an operational tool and its contributions should not exceed *8 pages* (exculuding bibliography of at most one page). Tool papers **must** submit a separate artefact for evaluation. Artefact acceptance is mandatory for tool paper acceptance. Moreover, artefact acceptance is conditional on acceptance of the corresponding tool paper (see [Artefact submission](#artefact-submission)).
 
 Papers must be formatted according to the [guidelines for Springer LNCS papers](https://www.springer.com/gp/computer-science/lncs).
 All submissions must be original, unpublished, and not submitted concurrently for publication elsewhere. 
