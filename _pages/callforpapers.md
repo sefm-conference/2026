@@ -93,6 +93,10 @@ Regular papers may optionally submit artefacts, such as data sets, software tool
 
 Artefacts accompanying tool papers must satisfy at least the requirements of the EAPLS Functional badge. Tool papers whose artefacts do not meet this requirement will be rejected.
 
+## Review process
+
+Submissions will be reviewed under a single-blind review process.
+
 ## Publication
 
 All accepted papers will appear in the proceedings of the conference that will be published as a volume in Springer’s LNCS series.
