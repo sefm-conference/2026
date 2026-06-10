@@ -13,10 +13,9 @@ Below is the main program of SEFM, to check for directions of the venue see the 
 Details on the workshop program can be found [here]({{ site.baseurl }}{% link _pages/workshops.md %}).
 
 **Important:** All presentations will be held in **Sala de Música (Wednesday and Friday) and Teatrillo (Thursday)**.
--->
 
 ## Wednesday, November 12, Sala de Música
-
+-->
 <!--
 | Time | Session | Details |
 |------|----------|----------|
