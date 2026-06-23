@@ -16,15 +16,18 @@ industry and government, to advance the state of the art in formal methods,
 to facilitate their uptake in the software industry, and to encourage their
 integration within practical software engineering methods and tools.
 
-## Important dates
-- Abstract submission: June 16 2026
-- Paper submission: June 23 2026
-- Artifact submission (tool and regular papers): July 22 2026
-- Artefact Evaluation kick-the-tires: July 25 2026 
-- Author notification: September 7 2026
-- Camera-ready submission: September 21 2026 
-- Workshops: 23-24 November 2026
-- Main Conference: 25-27 November 2026
+
+
+## Important dates - AoE (UTC-12h)
+- Abstract submission __(extended)__:     ~~June 16, 2026~~ June 23, 2026 
+- Paper submission __(extended)__:        ~~June 23, 2026~~ June 30, 2026
+- Artifact submission (tool and regular papers):                    July 22, 2026
+- Artefact Evaluation kick-the-tires:                July 27, 2026 
+- Author notification:                    September 7, 2026
+- Camera ready:                           September 21, 2026
+- Workshops:                              November 23-24, 2026
+- Conference:                             November 25-27, 2026
+
 
 
 ## Previous editions
