@@ -162,8 +162,8 @@ Elena Gómez-Martínez, Complutense University of Madrid, Spain \
     <td> Universität Augsburg</td>
   </tr>
 <tr>
-<td>Violet Ka L Pun </td>
-    <td> University of Oslo</td>
+<td>Violet Ka I Pun </td>
+    <td> Western Norway University of Applied Sciences</td>
   </tr>
 <tr>
 <td>Kirstin Rozier </td>
