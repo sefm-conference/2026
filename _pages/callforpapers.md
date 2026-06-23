@@ -12,12 +12,12 @@ Formal Methods will be held between 23 and 27 November 2026, with workshops taki
 ## Important dates - AoE (UTC-12h)
 - Abstract submission __(extended)__:     ~~June 16, 2026~~ June 23, 2026 
 - Paper submission __(extended)__:        ~~June 23, 2026~~ June 30, 2026
-- Artifact submission:                    July 22 2026
-- Artefact kick-the-tires:                July 25 2026 
+- Artifact submission:                    July 22, 2026
+- Artefact kick-the-tires:                July 27, 2026 
 - Author notification:                    September 7, 2026
 - Camera ready:                           September 21, 2026
-- Workshops:                              23-24 November 2026
-- Conference:                             25-27 November 2026
+- Workshops:                              November 23-24, 2026
+- Conference:                             November 25-27, 2026
 
 ## Overview and Scope
 
