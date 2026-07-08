@@ -21,7 +21,7 @@ Workshops will be held at the University of Malta Valletta Campus.
   **Edoardo Datteri** (University of Milano-Bicocca, Italy) and
   **Stefano M. Nicoletti** (University of Twente, Netherlands).
 
-- [ReacTS 2026](#), **Date TBA**, *3rd International Workshop on Reconfigurable Transition Systems: Semantics, Logics and Applications*
+- [ReacTS 2026](https://reacts-workshop.github.io/2026/), **Date TBA**, *3rd International Workshop on Reconfigurable Transition Systems: Semantics, Logics and Applications*
 
   Organised by
   **Daniel Figueiredo** (University of Aveiro, Portugal) and
