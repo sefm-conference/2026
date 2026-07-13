@@ -9,19 +9,19 @@ published: true
 The following workshops will be co-located with SEFM 2026 on **23-24 of November 2026**.
 Workshops will be held at the University of Malta Valletta Campus.
 
-- [STARS 2026](https://stars-workshop.github.io), **Date TBA**, *1st International Workshop on Static and Runtime Verification Synergies*
+- [STARS 2026](https://stars-workshop.github.io), **23 of November**, *1st International Workshop on Static and Runtime Verification Synergies*
 
   Organised by
   **Alceste Scalas** (Technical University of Denmark, Denmark) and
   **Adrian Francalanza** (University of Malta, Malta).
 
-- [CIFMA 2026](https://cifma.github.io), **Date TBA**, *8th International Workshop on Cognition: Interdisciplinary Foundations, Models and Applications*
+- [CIFMA 2026](https://cifma.github.io), **24 of November**, *8th International Workshop on Cognition: Interdisciplinary Foundations, Models and Applications*
 
   Organised by
   **Edoardo Datteri** (University of Milano-Bicocca, Italy) and
   **Stefano M. Nicoletti** (University of Twente, Netherlands).
 
-- [ReacTS 2026](https://reacts-workshop.github.io/2026/), **Date TBA**, *3rd International Workshop on Reconfigurable Transition Systems: Semantics, Logics and Applications*
+- [ReacTS 2026](https://reacts-workshop.github.io/2026/), **24 of November**, *3rd International Workshop on Reconfigurable Transition Systems: Semantics, Logics and Applications*
 
   Organised by
   **Daniel Figueiredo** (University of Aveiro, Portugal) and
