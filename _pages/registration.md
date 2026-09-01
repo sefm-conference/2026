@@ -19,6 +19,9 @@ Workshop registration includes attendance to the lectures of the corresponding w
 
 **Registration form can be accessed [here](https://www.um.edu.mt/services/administrativesupport/conferencesunit/events/sefmconference2026/)**
 
+<br>
+<br>
+
 # List of Suggested Hotels
 
 *When booking participants should use "SEFM/University of Malta" as reference*
