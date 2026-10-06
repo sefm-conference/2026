@@ -18,9 +18,7 @@ published: true
 </p>
 
 
-
-**From Intent to Guarantees: Building Trustworthy Software Systems
-**
+**From Intent to Guarantees: Building Trustworthy Software Systems**
 
 Trustworthy software systems depend not only on correct implementations, but on the quality of the specifications that capture what they should do and the assumptions about the environments in which they operate. This raises fundamental challenges: how can we identify weaknesses and conflicts in specifications, determine whether their requirements can actually be realised, and maintain meaningful guarantees as systems and their environments evolve? 
  
