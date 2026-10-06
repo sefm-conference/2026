@@ -7,7 +7,7 @@ published: true
 ---
 
 
-## [Dalal Alrajeh](https://costa.fdi.ucm.es/~elvira/), Imperial College London, UK 
+## [Dalal Alrajeh](https://www.doc.ic.ac.uk/~da04/), Imperial College London, UK 
 <img src="{{ site.baseurl }}{% link assets/images/people/da.jpg %}" class="imageSpeaker" align="right"/>
 
  <p style="min-height: 170px;">
@@ -31,49 +31,26 @@ In this talk, I will present our work on specification analysis and evolution fo
 
 
 
-<!--
-## [Robert M. Hierons](https://sheffield.ac.uk/cs/people/academic/rob-hierons), University of Sheffield, United Kingdom
+## [Elizabeth Polgreen](https://polgreen.github.io), University of Edinburgh, UK 
 
- <img src="{{ site.baseurl }}{% link assets/images/people/Rob-Hierons.jpeg %}" class="imageSpeaker" align="right"/>
-
-
-<!-- <p style="min-height: 170px;">
+ <img src="{{ site.baseurl }}{% link assets/images/people/polgreen.png %}" class="imageSpeaker" align="right"/>
 
 
-<br/>
-
-</p>
-
--->
-
-<!--
-**Systematic testing for robotic systems** 
-
-Robotic systems form the basis for advances in areas such as manufacturing, healthcare, and transport. A number of areas in which robotic systems are being used are safety-critical and so there is a need for software development processes that lead to robotic systems that are safe, reliable and trusted. Testing will inevitably be an important component.
-
-This talk will describe recent work on automated testing of robotic systems. The work is model-based: it takes as input a state-based model that describes the required behaviour of the system under test. Models are written in either RoboChart, a state-based language for robotics, or RoboSim, a simulation language for robotics. These languages have been given a formal semantics, making it possible to reason about models in a sound manner. This talk will describe how the development of robotic software can be formalised based on such languages and how this can lead to the potential to automate the generation of sound test cases. Such test cases can be used for testing within a simulation and possibly also for testing the deployed system. Testing is systematic since test cases target potential faults.
-
-
-
-
-## [Ricardo Pérez del Castillo](https://www.linkedin.com/in/ricardo-perez-castillo/?locale=en_US), University of Castilla-La Mancha, Spain 
-
- <img src="{{ site.baseurl }}{% link assets/images/people/Ricardo-Perez.jpg %}" class="imageSpeaker" align="right"/>
-
--->
-<!-- <p style="min-height: 170px;">
+ <p style="min-height: 170px;">
 
 
 <br/>
 
 </p>
 
--->
 
-<!--
-**Quantum Software in Action: Challenges and Opportunities in Software Engineering [(Presentation slides)](../assets/presentations/keynote%20SEFM_25_Ricardo_Perez.pdf)** 
+**Reading Between the Lines of Code** 
 
-Quantum computing is rapidly evolving from a theoretical promise to a practical reality, with profound implications for software engineering. As quantum hardware advances, the demand for rigorous methods, tools, and practices to design, verify, and maintain quantum software becomes increasingly critical. This talk examines the emerging field of quantum software engineering, with particular emphasis on the role of formal methods in ensuring correctness, reliability, and trustworthiness of quantum programs and hybrid quantum–classical systems. Key topics include quantum programming models, specification and verification techniques, testing approaches, scalability, and the integration of quantum algorithms into real-world applications. The talk also outlines opportunities for innovation in methodologies, frameworks, and interdisciplinary collaboration, providing a comprehensive perspective on how quantum software can transition from research prototypes to dependable systems.
+Formal verification is hard. It is even harder when you do not know what property you should be verifying. 
+People are notoriously bad at stating precisely what they want, and natural language is inherently ambiguous. As a result, much of the software and hardware we rely on comes without usable specifications for formal verification. Even when specifications do exist, they are often insufficiently detailed for automated verification tools to prove the properties we care about. This gap is becoming increasingly important as AI-generated code enters the software and hardware ecosystem: we may be able to generate implementations faster than ever, but understanding what those implementations are supposed to do remains a core challenge.
+
+This talk will discuss our group’s attempts to close this gap through specification mining: automatically inferring the properties that are implicit in code, designs, and their behaviour. Drawing on classical program synthesis techniques as well as large language models, we are exploring methods for efficiently mining specifications for both hardware and software. Our aim is to reduce the manual burden of formal verification and, ultimately, to enable the verification of systems without requiring users to write formal specifications by hand. 
 
 
--->
+
+
