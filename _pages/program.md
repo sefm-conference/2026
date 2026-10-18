@@ -59,10 +59,8 @@ Details on the respective workshop programmes can be found [here](https://sefm-c
 | *14:30 – 15:00* | **Security, Safety and Dependable Systems** |  Protecting Sensitive Data Against Deductions in Business Processes: Formal Semantics
 and Model-Checking | *Vincent Hugot, Sabine Frittella and Amine Rifi* |
 | *15:00 – 15:30* | **Coffee break** | First Floor | |
-| *15:30 – 16:00* | **Testing, Monitoring and Assurance** |  Runtime Verification of Communicating Systems Using Data-Aware Interaction Models
-and Broker-Based Observations | *Darine Rammal, Chana Weil-Kennedy, Boutheina Bannour, Christophe Gaston, Arnault Lapitre, Pascale* |
-| *16:00 – 16:30* | **Testing, Monitoring and Assurance** |  Verifying Autoware Controller Node by Combining Model Verification and Runtime
-Monitoring | *Daisuke Ishii* |
+| *15:30 – 16:00* | **Testing, Monitoring and Assurance** |  Runtime Verification of Communicating Systems Using Data-Aware Interaction Models and Broker-Based Observations | *Darine Rammal, Chana Weil-Kennedy, Boutheina Bannour, Christophe Gaston, Arnault Lapitre, Pascale* |
+| *16:00 – 16:30* | **Testing, Monitoring and Assurance** |  Verifying Autoware Controller Node by Combining Model Verification and Runtime Monitoring | *Daisuke Ishii* |
 | *16:30 – 17:00* | **Testing, Monitoring and Assurance** |  Policy-Guided Test Generation for Autonomous Driving Systems via Probabilistic Model
 Checking | *Srajan Goyal, Radu Calinescu, Alberto Griggio, Ioannis Stefanakos and Stefano Tonetta* |
 | *17:00 – 17:30* | **Testing, Monitoring and Assurance** |  Formal Verification of Stability in Provisioning Changes with BPlan | *Eloi Perdereau, Daniel Sokolowski, Jolan Philippe, Hélène Coullon and Guido Salvaneschi* |
