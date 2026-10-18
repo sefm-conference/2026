@@ -81,12 +81,12 @@ Details on the respective workshop programmes can be found [here](https://sefm-c
 | *14:00 – 14:30* | **AI and Machine Learning Verification** |  Reactive Correspondence Relationships for Incremental Triple Graph Grammar-Style Model Synchronisation | *Monalisha Ojha, Shilpi Gupta, Mohammad Sadeghi, Colin Atkinson, Sebastian Bergemann, Derui Zhu and Alexander Pretschner* |
 | *14:30 – 15:00* | **AI and Machine Learning Verification** |  The Scaffolding Paradox: Evidence from AI-Assisted Dafny Proof Synthesis | *Anastasiya Kravchuk-Kirilyuk, Dat Nguyen, Rhea Karty, Simon Henniger, Gabriel Poesia and Nada Amin* |
 | *15:00 – 15:30* | **Coffee break** | First Floor | |
-| *15:30 – 16:00* | **Security, Safety and Dependable Systems** |  Verification of a Configurable Railway Protection System: Pushing the Envelope | *Alessandro Cimatti, Alberto Griggio, Gianluca Redondi, Giuseppe Scaglione and Dylan Trenti* |
-| *16:00 – 16:30* | **Security, Safety and Dependable Systems** |  Automated Abstraction Refinement for Information Flow Security in Embedded Systems | *Jonas Becker-Kupczok, Lukas Ernst and Paula Herber* |
-| *16:30 – 17:00* | **Security, Safety and Dependable Systems** | Formal Verification of Credential Provisioning in ISO 15118 Park-and-Charge and Introducing Secure Ownership Transfer | *Gabriele Bellini and Roberto Metere* |
+| *15:30 – 16:00* | **Formal Verification and Program Reasoning** |  Borderlines of Soundness: Verifying C Aliasing Properties | *Jérémy Damour, Loïc Correnson, Frédéric Loulergue and Allan Blanchard* |
+| *16:00 – 16:30* | **Security, Safety and Dependable Systems** |  Verification of a Configurable Railway Protection System: Pushing the Envelope | *Alessandro Cimatti, Alberto Griggio, Gianluca Redondi, Giuseppe Scaglione and Dylan Trenti* |
+| *16:30 – 17:00* | **Security, Safety and Dependable Systems** |  Automated Abstraction Refinement for Information Flow Security in Embedded Systems | *Jonas Becker-Kupczok, Lukas Ernst and Paula Herber* |
+| *17:00 – 17:30* | **Security, Safety and Dependable Systems** | Formal Verification of Credential Provisioning in ISO 15118 Park-and-Charge and Introducing Secure Ownership Transfer | *Gabriele Bellini and Roberto Metere* |
 
 
-<!-- | *17:00 – 17:30* | **AI and Machine Learning Verification** |  Formal Verification of Stability in Provisioning Changes with BPlan | *Eloi Perdereau, Daniel Sokolowski, Jolan Philippe, Hélène Coullon and Guido Salvaneschi* | -->
 
 
 
