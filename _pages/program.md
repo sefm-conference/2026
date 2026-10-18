@@ -56,8 +56,7 @@ Details on the respective workshop programmes can be found [here](https://sefm-c
 |
 | *13:30 – 14:00* | **Security, Safety and Dependable Systems** |  Robust Skill Execution for Autonomous Robots | *Pierre Malafosse, Alexandre Albore, David Doose, Jérémie Guiochet and Charles Lesire* |
 | *14:00 – 14:30* | **Security, Safety and Dependable Systems** |  Formal Verification of a Blockchain-Based Healthcare Consent Management Protocol | *Suraj Gupta, Frédéric Lang, Umar Ozeer and Gwen Salaün* |
-| *14:30 – 15:00* | **Security, Safety and Dependable Systems** |  Protecting Sensitive Data Against Deductions in Business Processes: Formal Semantics
-and Model-Checking | *Vincent Hugot, Sabine Frittella and Amine Rifi* |
+| *14:30 – 15:00* | **Security, Safety and Dependable Systems** |  Protecting Sensitive Data Against Deductions in Business Processes: Formal Semantics and Model-Checking | *Vincent Hugot, Sabine Frittella and Amine Rifi* |
 | *15:00 – 15:30* | **Coffee break** | First Floor | |
 | *15:30 – 16:00* | **Testing, Monitoring and Assurance** |  Runtime Verification of Communicating Systems Using Data-Aware Interaction Models and Broker-Based Observations | *Darine Rammal, Chana Weil-Kennedy, Boutheina Bannour, Christophe Gaston, Arnault Lapitre, Pascale* |
 | *16:00 – 16:30* | **Testing, Monitoring and Assurance** |  Verifying Autoware Controller Node by Combining Model Verification and Runtime Monitoring | *Daisuke Ishii* |
