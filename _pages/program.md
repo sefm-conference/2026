@@ -16,13 +16,13 @@ Details on the respective workshop programmes can be found [here](https://sefm-c
 ## Tuesday, November 24
 
 | Time | Session | Details |
-|------|----------|--------------|
+|---------|----------|---------------------------|
 | *18:00 – 20:00* | **Welcome Reception**  |  First floor *(registration will be open)* | 
 
 ## Wednesday, November 25
 
 | Time | Session | Details | Authors|
-|------|----------|--------------|-------------------|
+|------|----------|--------------|---------------|
 | *08:30 – 09:00* | **Registration** | First floor |
 | *09:00 – 10:00* | **Invited Talk** |  Reading Between the Lines of Code | *Elizabeth Polgreen*|
 | *10:00 – 10:30* | **Coffee break** | First Floor | |
