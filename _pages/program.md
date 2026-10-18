@@ -72,7 +72,7 @@ Details on the respective workshop programmes can be found [here](https://sefm-c
 | *09:00 – 09:30* | **Short Papers and Tool Papers** |  Why3-py: A Tool for Formal Verification of Hypothesis Testing and Meta-Analysis in Python | *Akira Tanaka and Yusuke Kawamoto* |
 | *09:30 – 10:00* | **Short Papers and Tool Papers** |  KeY4CATs: A Deductive Verification Tool for Context-aware Trace Contracts | *Marco Scaletta* |
 | *10:00 – 10:30* | **Coffee break** | First Floor | |
-| *10:30 – 11:00* | **Formal Verification and Program Reasoning** |  Automata-Guided Local Proof Obligations for Temporal Safety in Synchronous Programs | *Térence Clastres and Frédéric Dabrowski* |
+| *10:30 – 11:00* | **Formal Verification and Program Reasoning** |  Borderlines of Soundness: Verifying C Aliasing Properties | *Jérémy Damour, Loïc Correnson, Frédéric Loulergue and Allan Blanchard* | 
 | *11:00 – 11:30* | **Formal Verification and Program Reasoning** |  Encodability Criteria for Labelled Semantics | *Lukas Bartl, Cinzia Di Giusto and Kirstin Peters* |
 | *11:30 – 12:00* | **Formal Verification and Program Reasoning** |  Verifying Numerical Methods with Isabelle/HOL | *Dustin Bryant, Jonathan Julian Huerta Y Munive and Simon Foster* |
 | *12:00 – 12:30* | **Formal Verification and Program Reasoning** |  PETRIFY: Petri-net Based Analysis of Concurrency Properties in Java Bytecode | *Akshatha Shenoy and Carlo A. Furia* |
@@ -81,7 +81,8 @@ Details on the respective workshop programmes can be found [here](https://sefm-c
 | *14:00 – 14:30* | **AI and Machine Learning Verification** |  Reactive Correspondence Relationships for Incremental Triple Graph Grammar-Style Model Synchronisation | *Monalisha Ojha, Shilpi Gupta, Mohammad Sadeghi, Colin Atkinson, Sebastian Bergemann, Derui Zhu and Alexander Pretschner* |
 | *14:30 – 15:00* | **AI and Machine Learning Verification** |  The Scaffolding Paradox: Evidence from AI-Assisted Dafny Proof Synthesis | *Anastasiya Kravchuk-Kirilyuk, Dat Nguyen, Rhea Karty, Simon Henniger, Gabriel Poesia and Nada Amin* |
 | *15:00 – 15:30* | **Coffee break** | First Floor | |
-| *15:30 – 16:00* | **Formal Verification and Program Reasoning** |  Borderlines of Soundness: Verifying C Aliasing Properties | *Jérémy Damour, Loïc Correnson, Frédéric Loulergue and Allan Blanchard* |
+| *15:30 – 16:00* | **Formal Verification and Program Reasoning** |
+Automata-Guided Local Proof Obligations for Temporal Safety in Synchronous Programs | *Térence Clastres and Frédéric Dabrowski* | 
 | *16:00 – 16:30* | **Security, Safety and Dependable Systems** |  Verification of a Configurable Railway Protection System: Pushing the Envelope | *Alessandro Cimatti, Alberto Griggio, Gianluca Redondi, Giuseppe Scaglione and Dylan Trenti* |
 | *16:30 – 17:00* | **Security, Safety and Dependable Systems** |  Automated Abstraction Refinement for Information Flow Security in Embedded Systems | *Jonas Becker-Kupczok, Lukas Ernst and Paula Herber* |
 | *17:00 – 17:30* | **Security, Safety and Dependable Systems** | Formal Verification of Credential Provisioning in ISO 15118 Park-and-Charge and Introducing Secure Ownership Transfer | *Gabriele Bellini and Roberto Metere* |
