@@ -23,7 +23,7 @@ Details on the respective workshop programmes can be found [here](https://sefm-c
 
 | Time | Session | Details | Authors|
 |------|----------|--------------|---------------|
-| *08:30 – 09:00* | **Registration** | First floor |
+| *08:00 – 09:00* | **Registration** | First floor |
 | *09:00 – 10:00* | **Invited Talk** |  Reading Between the Lines of Code | *Elizabeth Polgreen*|
 | *10:00 – 10:30* | **Coffee break** | First Floor | |
 | *10:30 – 11:00* | **AI and Machine Learning Verification** |  Functional Basis Reduction of Neural Networks via Approximate Hidden-Neuron Lumping | *Ravi Dhiman, Andrea Passarella, Mirco Tribastone and Lorenzo Valerio* |
@@ -33,7 +33,7 @@ Details on the respective workshop programmes can be found [here](https://sefm-c
 | 12:30 – 13:30 | **Lunch** | First Floor | |
 | *13:30 – 14:00* | **Security, Safety and Dependable Systems** |  A Formal Case Study of Side-Channel Attacks on a Water Supply System | *Julian Klein and Sabine Glesner* |
 | *14:00 – 14:30* | **Security, Safety and Dependable Systems** |  Formally Verifying Noir Zero Knowledge Programs with NAVe | *Pedro Antonino and Namrata Jain* |
-| *14:30 – 15:00* | **Security, Safety and Dependable Systems** |  SMAC: A Calculus for Verifying Memory Arrays in Isabelle/Solidity | *VDiego Marmsoler and Asad Ahmed* |
+| *14:30 – 15:00* | **Security, Safety and Dependable Systems** |  SMAC: A Calculus for Verifying Memory Arrays in Isabelle/Solidity | *Diego Marmsoler and Asad Ahmed* |
 | *15:00 – 15:30* | **Coffee break** | First Floor | |
 | *15:30 – 16:00* | **Formal Verification and Program Reasoning** |  Verifying Numerical Methods with Isabelle/HOL | *Dustin Bryant, Jonathan Julian Huerta Y Munive and Simon Foster* | 
 | *16:00 – 16:30* | **Formal Verification and Program Reasoning** |  Modular Composition of Inductive Types Using Lean Meta-programming | *Ramy Shahin* |
@@ -50,14 +50,14 @@ Details on the respective workshop programmes can be found [here](https://sefm-c
 | *10:00 – 10:30* | **Coffee break** | First Floor | |
 | *10:30 – 11:00* | **Testing, Monitoring and Assurance** |  Integrating Parallel Trace Abstraction and Explicit Exploration for Test-Case Generation | *Max Barth and Marie-Christine Jakobs* |
 | *11:00 – 11:30* | **Testing, Monitoring and Assurance** |  Metamorphic Testing for Floating-Point Performance Issues in SMT Solvers | *Rosa Abbasi and Eva Darulova* |
-| *11:30 – 12:00* | **Testing, Monitoring and Assurance** |  Diverse Counterexample Pools for Hybrid Automata: Generation and Selection | *Sergio Quijano, József Kovács, Georg Arapatsakos, Erika Ábrahám, Mahsa Varshosaz and Andrzej* |
+| *11:30 – 12:00* | **Testing, Monitoring and Assurance** |  Diverse Counterexample Pools for Hybrid Automata: Generation and Selection | *Sergio Quijano, József Kovács, Georg Arapatsakos, Erika Ábrahám, Mahsa Varshosaz and Andrzej Wasowski* |
 | *12:00 – 12:30* | **Testing, Monitoring and Assurance** |  Revisiting Sequentialization of Concurrent C Programs | *Dirk Beyer, Noah Koenig and Marian Lingsch-Rosenfeld* |
 | 12:30 – 13:30 | **Lunch** | First Floor | |
 | *13:30 – 14:00* | **Security, Safety and Dependable Systems** |  Robust Skill Execution for Autonomous Robots | *Pierre Malafosse, Alexandre Albore, David Doose, Jérémie Guiochet and Charles Lesire* |
 | *14:00 – 14:30* | **Security, Safety and Dependable Systems** |  Formal Verification of a Blockchain-Based Healthcare Consent Management Protocol | *Suraj Gupta, Frédéric Lang, Umar Ozeer and Gwen Salaün* |
 | *14:30 – 15:00* | **Security, Safety and Dependable Systems** |  Protecting Sensitive Data Against Deductions in Business Processes: Formal Semantics and Model-Checking | *Vincent Hugot, Sabine Frittella and Amine Rifi* |
 | *15:00 – 15:30* | **Coffee break** | First Floor | |
-| *15:30 – 16:00* | **Testing, Monitoring and Assurance** |  Runtime Verification of Communicating Systems Using Data-Aware Interaction Models and Broker-Based Observations | *Darine Rammal, Chana Weil-Kennedy, Boutheina Bannour, Christophe Gaston, Arnault Lapitre, Pascale* |
+| *15:30 – 16:00* | **Testing, Monitoring and Assurance** |  Runtime Verification of Communicating Systems Using Data-Aware Interaction Models and Broker-Based Observations | *Darine Rammal, Chana Weil-Kennedy, Boutheina Bannour, Christophe Gaston, Arnault Lapitre, and Pascale Le Gall* |
 | *16:00 – 16:30* | **Testing, Monitoring and Assurance** |  Verifying Autoware Controller Node by Combining Model Verification and Runtime Monitoring | *Daisuke Ishii* |
 | *16:30 – 17:00* | **Testing, Monitoring and Assurance** | Policy-Guided Test Generation for Autonomous Driving Systems via Probabilistic Model Checking | *Srajan Goyal, Radu Calinescu, Alberto Griggio, Ioannis Stefanakos and Stefano Tonetta* |
 | *17:00 – 17:30* | **Testing, Monitoring and Assurance** |  Formal Verification of Stability in Provisioning Changes with BPlan | *Eloi Perdereau, Daniel Sokolowski, Jolan Philippe, Hélène Coullon and Guido Salvaneschi* |
