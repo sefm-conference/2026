@@ -29,7 +29,7 @@ Details on the respective workshop programmes can be found [here](https://sefm-c
 | *10:30 – 11:00* | **AI and Machine Learning Verification** |  Functional Basis Reduction of Neural Networks via Approximate Hidden-Neuron Lumping | *Ravi Dhiman, Andrea Passarella, Mirco Tribastone and Lorenzo Valerio* |
 | *11:00 – 11:30* | **AI and Machine Learning Verification** |  Discovering Markovian Models from Event Logs for Resource-Aware Process Analysis | *Carlos E. Budde, Vlad Paul Cosma, Alyzia Konsta and Hugo A. López* |
 | *11:30 – 12:00* | **AI and Machine Learning Verification** |  Another Brick in the Loop: From Graphical Loop Invariant to Formal Proofs | *Géraldine Brieven, Antoine Grosjean, Pascal Fontaine and Benoit Donnet* |
-| *12:00 – 12:30* | **AI and Machine Learning Verification** |  Navigating the Random Forest: Verifying ML Models in Safety-Critical Applications with SMT Solvers| *Iwo Kurzidem, Nina Vucenovic, Jakob Schleicher, Karsten Roscher and Dirk Beyer* |
+| *12:00 – 12:30* | **AI and Machine Learning Verification** |  Reactive Correspondence Relationships for Incremental Triple Graph Grammar-Style Model Synchronisation | *Monalisha Ojha, Shilpi Gupta, Mohammad Sadeghi, Colin Atkinson, Sebastian Bergemann, Derui Zhu and Alexander Pretschner* |
 | 12:30 – 13:30 | **Lunch** | First Floor | |
 | *13:30 – 14:00* | **Security, Safety and Dependable Systems** |  A Formal Case Study of Side-Channel Attacks on a Water Supply System | *Julian Klein and Sabine Glesner* |
 | *14:00 – 14:30* | **Security, Safety and Dependable Systems** |  Formally Verifying Noir Zero Knowledge Programs with NAVe | *Pedro Antonino and Namrata Jain* |
@@ -83,7 +83,7 @@ Details on the respective workshop programmes can be found [here](https://sefm-c
 | *15:00 – 15:30* | **Coffee break** | First Floor | |
 | *15:30 – 16:00* | **Formal Verification and Program Reasoning** | Automata-Guided Local Proof Obligations for Temporal Safety in Synchronous Programs | *Térence Clastres and Frédéric Dabrowski* |
 | *16:00 – 16:30* | **AI and Machine Learning Verification** |  Bridging the Integration Bottleneck: A Java Architecture for Model Checking-Guided Reinforcement Learning | *Ahmed Nagy Abdelkhalek Mansour, Samuele Grillo, Matteo Rossi and Vincenzo Viscusi* |
-| *16:30 – 17:00* | **AI and Machine Learning Verification** |  Reactive Correspondence Relationships for Incremental Triple Graph Grammar-Style Model Synchronisation | *Monalisha Ojha, Shilpi Gupta, Mohammad Sadeghi, Colin Atkinson, Sebastian Bergemann, Derui Zhu and Alexander Pretschner* |
+| *16:30 – 17:00* | **AI and Machine Learning Verification** |  Navigating the Random Forest: Verifying ML Models in Safety-Critical Applications with SMT Solvers| *Iwo Kurzidem, Nina Vucenovic, Jakob Schleicher, Karsten Roscher and Dirk Beyer* |
 | *17:00 – 17:30* | **AI and Machine Learning Verification** |  The Scaffolding Paradox: Evidence from AI-Assisted Dafny Proof Synthesis | *Anastasiya Kravchuk-Kirilyuk, Dat Nguyen, Rhea Karty, Simon Henniger, Gabriel Poesia and Nada Amin* |
 
 
