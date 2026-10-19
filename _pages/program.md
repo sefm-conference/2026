@@ -16,7 +16,7 @@ Details on the respective workshop programmes can be found [here](https://sefm-c
 ## Tuesday, November 24
 
 | Time | Session | Details |
-|---------|----------|---------------------------|
+|---------|-------------|---------------------------|
 | *18:00 – 20:00* | **Welcome Reception**  |  First floor *(registration will be open)* | 
 
 ## Wednesday, November 25
