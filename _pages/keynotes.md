@@ -19,7 +19,8 @@ published: true
 
 
 </p>
-[Imperial College London](https://www.doc.ic.ac.uk/~da04/), UK 
+<br>
+[Imperial College London, UK](https://www.doc.ic.ac.uk/~da04/) 
 
 **From Intent to Guarantees: Building Trustworthy Software Systems**
 
