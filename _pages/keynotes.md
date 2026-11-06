@@ -8,7 +8,7 @@ published: true
 
 
 ## Dalal Alrajeh 
-<br>
+
 [Imperial College London, UK](https://www.doc.ic.ac.uk/~da04/) 
 <br>
 <img src="{{ site.baseurl }}{% link assets/images/people/da.jpg %}" class="imageSpeaker" align="right"/>
