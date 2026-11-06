@@ -24,7 +24,7 @@ Details on the respective workshop programmes can be found [here](https://sefm-c
 | Time | Session | Details | Authors|
 |------|----------|--------------|---------------|
 | *08:00 – 09:00* | **Registration** | First floor |
-| *09:00 – 10:00* | **Invited Talk** |  Reading Between the Lines of Code | *Elizabeth Polgreen*|
+| *09:00 – 10:00* | **Invited Talk** |  Reading Between the Lines of Code | *[Elizabeth Polgreen](../keynotes/#elizabeth-polgreen)*|
 | *10:00 – 10:30* | **Coffee break** | Second Floor | |
 | *10:30 – 11:00* | **AI and Machine Learning Verification** |  Functional Basis Reduction of Neural Networks via Approximate Hidden-Neuron Lumping | *Ravi Dhiman, Andrea Passarella, Mirco Tribastone and Lorenzo Valerio* |
 | *11:00 – 11:30* | **AI and Machine Learning Verification** |  Discovering Markovian Models from Event Logs for Resource-Aware Process Analysis | *Carlos E. Budde, Vlad Paul Cosma, Alyzia Konsta and Hugo A. López* |
@@ -39,7 +39,7 @@ Details on the respective workshop programmes can be found [here](https://sefm-c
 | *16:00 – 16:30* | **Formal Verification and Program Reasoning** |  Modular Composition of Inductive Types Using Lean Meta-programming | *Ramy Shahin* |
 | *16:30 – 17:00* | **Formal Verification and Program Reasoning** | Verifying a Rust Bitmap Allocator in RocQ | *Rahul Sankalana Gunawardhana, Narges Khakpour and Conrad Grobler* |
 | *17:00 – 17:30* | **Formal Verification and Program Reasoning** |  Practical Range Refinement Types with Inference | *Valentin Aebi and Carlo A. Furia* |
-| *17:30 – 18:30* | **[FM4All](https://www.fmeurope.org/2026/05/20/fm4all-guidelines-for-teaching-formal-methods/) initiative** |  FME Guidelines for Teaching Formal Methods as a Knowledge Area in the ACM Curriculum | *Elvinia Riccobene*|
+| *17:30 – 18:30* | **[FM4All](https://www.fmeurope.org/2026/05/20/fm4all-guidelines-for-teaching-formal-methods/) initiative** |  FME Guidelines for Teaching Formal Methods as a Knowledge Area in the ACM Curriculum | *[Elvinia Riccobene](../keynotes/#elvinia-riccobene)*|
 
 
 ## Thursday, November 26

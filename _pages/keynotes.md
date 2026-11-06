@@ -8,7 +8,9 @@ published: true
 
 
 ## Dalal Alrajeh 
+
 [Imperial College London, UK](https://www.doc.ic.ac.uk/~da04/) 
+
 <img src="{{ site.baseurl }}{% link assets/images/people/da.jpg %}" class="imageSpeaker" align="right"/>
 
  <p style="min-height: 170px;">
@@ -32,7 +34,9 @@ In this talk, I will present our work on specification analysis and evolution fo
 
 
 
-## [Elizabeth Polgreen](https://polgreen.github.io), University of Edinburgh, UK 
+## Elizabeth Polgreen
+
+[University of Edinburgh, UK](https://polgreen.github.io) 
 
  <img src="{{ site.baseurl }}{% link assets/images/people/polgreen.png %}" class="imageSpeaker" align="right"/>
 
@@ -53,7 +57,10 @@ People are notoriously bad at stating precisely what they want, and natural lang
 This talk will discuss our group’s attempts to close this gap through specification mining: automatically inferring the properties that are implicit in code, designs, and their behaviour. Drawing on classical program synthesis techniques as well as large language models, we are exploring methods for efficiently mining specifications for both hardware and software. Our aim is to reduce the manual burden of formal verification and, ultimately, to enable the verification of systems without requiring users to write formal specifications by hand. 
 
 
-## [Elvinia Riccobene ](https://homes.di.unimi.it/riccobene/),  University of Milan ,Italy 
+## Elvinia Riccobene 
+
+[University of Milan ,Italy](https://homes.di.unimi.it/riccobene/)
+ 
 <img src="{{ site.baseurl }}{% link assets/images/people/elvinia.png %}" class="imageSpeaker" align="right"/>
 
  <p style="min-height: 170px;">
