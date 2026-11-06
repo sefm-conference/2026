@@ -52,7 +52,6 @@ In this talk, I will present our work on specification analysis and evolution fo
 
 </p>
 
-<br>
 **Reading Between the Lines of Code** 
 
 Formal verification is hard. It is even harder when you do not know what property you should be verifying. 
