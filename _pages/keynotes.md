@@ -9,14 +9,14 @@ published: true
 
 ## Dalal Alrajeh 
 
-[Imperial College London, UK](https://www.doc.ic.ac.uk/~da04/) 
-
 <img src="{{ site.baseurl }}{% link assets/images/people/da.jpg %}" class="imageSpeaker" align="right"/>
 
  <p style="min-height: 170px;">
 
 
 <br/>
+[Imperial College London](https://www.doc.ic.ac.uk/~da04/), UK 
+
 
 </p>
 
@@ -36,8 +36,6 @@ In this talk, I will present our work on specification analysis and evolution fo
 
 ## Elizabeth Polgreen
 
-[University of Edinburgh, UK](https://polgreen.github.io) 
-
  <img src="{{ site.baseurl }}{% link assets/images/people/polgreen.png %}" class="imageSpeaker" align="right"/>
 
 
@@ -45,6 +43,8 @@ In this talk, I will present our work on specification analysis and evolution fo
 
 
 <br/>
+[University of Edinburgh](https://polgreen.github.io), UK 
+
 
 </p>
 
@@ -58,15 +58,13 @@ This talk will discuss our group’s attempts to close this gap through specific
 
 
 ## Elvinia Riccobene 
-
-[University of Milan ,Italy](https://homes.di.unimi.it/riccobene/)
- 
 <img src="{{ site.baseurl }}{% link assets/images/people/elvinia.png %}" class="imageSpeaker" align="right"/>
 
  <p style="min-height: 170px;">
 
 
 <br/>
+[University of Milan](https://homes.di.unimi.it/riccobene/), Italy
 
 </p>
 
