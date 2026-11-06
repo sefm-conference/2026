@@ -8,7 +8,9 @@ published: true
 
 
 ## Dalal Alrajeh 
-
+<br>
+[Imperial College London, UK](https://www.doc.ic.ac.uk/~da04/) 
+<br>
 <img src="{{ site.baseurl }}{% link assets/images/people/da.jpg %}" class="imageSpeaker" align="right"/>
 
  <p style="min-height: 170px;">
@@ -19,8 +21,6 @@ published: true
 
 
 </p>
-<br>
-[Imperial College London, UK](https://www.doc.ic.ac.uk/~da04/) 
 
 **From Intent to Guarantees: Building Trustworthy Software Systems**
 
