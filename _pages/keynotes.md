@@ -37,6 +37,8 @@ In this talk, I will present our work on specification analysis and evolution fo
 
 ## Elizabeth Polgreen
 
+[University of Edinburgh, UK](https://polgreen.github.io)  
+<br>
  <img src="{{ site.baseurl }}{% link assets/images/people/polgreen.png %}" class="imageSpeaker" align="right"/>
 
 
@@ -44,7 +46,7 @@ In this talk, I will present our work on specification analysis and evolution fo
 
 
 <br/>
-[University of Edinburgh](https://polgreen.github.io), UK 
+
 
 
 </p>
@@ -58,14 +60,17 @@ People are notoriously bad at stating precisely what they want, and natural lang
 This talk will discuss our group’s attempts to close this gap through specification mining: automatically inferring the properties that are implicit in code, designs, and their behaviour. Drawing on classical program synthesis techniques as well as large language models, we are exploring methods for efficiently mining specifications for both hardware and software. Our aim is to reduce the manual burden of formal verification and, ultimately, to enable the verification of systems without requiring users to write formal specifications by hand. 
 
 
-## Elvinia Riccobene 
+## Elvinia Riccobene
+
+[University of Milan, Italy](https://homes.di.unimi.it/riccobene/)  
+<br>
 <img src="{{ site.baseurl }}{% link assets/images/people/elvinia.png %}" class="imageSpeaker" align="right"/>
 
  <p style="min-height: 170px;">
 
 
 <br/>
-[University of Milan](https://homes.di.unimi.it/riccobene/), Italy
+
 
 </p>
 
