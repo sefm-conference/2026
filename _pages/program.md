@@ -39,7 +39,7 @@ Details on the respective workshop programmes can be found [here](https://sefm-c
 | *16:00 – 16:30* | **Formal Verification and Program Reasoning** |  Modular Composition of Inductive Types Using Lean Meta-programming | *Ramy Shahin* |
 | *16:30 – 17:00* | **Formal Verification and Program Reasoning** | Verifying a Rust Bitmap Allocator in RocQ | *Rahul Sankalana Gunawardhana, Narges Khakpour and Conrad Grobler* |
 | *17:00 – 17:30* | **Formal Verification and Program Reasoning** |  Practical Range Refinement Types with Inference | *Valentin Aebi and Carlo A. Furia* |
-| *09:00 – 10:00* | **[FM4All](https://www.fmeurope.org/2026/05/20/fm4all-guidelines-for-teaching-formal-methods/) initiative** |  FME Guidelines for Teaching Formal Methods as a Knowledge Area in the ACM Curriculum | *Elvinia Riccobene*|
+| *17:30 – 18:30* | **[FM4All](https://www.fmeurope.org/2026/05/20/fm4all-guidelines-for-teaching-formal-methods/) initiative** |  FME Guidelines for Teaching Formal Methods as a Knowledge Area in the ACM Curriculum | *Elvinia Riccobene*|
 
 
 ## Thursday, November 26
