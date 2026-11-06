@@ -7,7 +7,8 @@ published: true
 ---
 
 
-## [Dalal Alrajeh](https://www.doc.ic.ac.uk/~da04/), Imperial College London, UK 
+## Dalal Alrajeh 
+[Imperial College London, UK](https://www.doc.ic.ac.uk/~da04/) 
 <img src="{{ site.baseurl }}{% link assets/images/people/da.jpg %}" class="imageSpeaker" align="right"/>
 
  <p style="min-height: 170px;">
@@ -51,6 +52,27 @@ People are notoriously bad at stating precisely what they want, and natural lang
 
 This talk will discuss our group’s attempts to close this gap through specification mining: automatically inferring the properties that are implicit in code, designs, and their behaviour. Drawing on classical program synthesis techniques as well as large language models, we are exploring methods for efficiently mining specifications for both hardware and software. Our aim is to reduce the manual burden of formal verification and, ultimately, to enable the verification of systems without requiring users to write formal specifications by hand. 
 
+
+## [Elvinia Riccobene ](https://homes.di.unimi.it/riccobene/),  University of Milan ,Italy 
+<img src="{{ site.baseurl }}{% link assets/images/people/elvinia.png %}" class="imageSpeaker" align="right"/>
+
+ <p style="min-height: 170px;">
+
+
+<br/>
+
+</p>
+
+
+**FM4All - FME Guidelines for Teaching Formal Methods as a Knowledge Area in the ACM Curriculum**
+
+The FM4ALL Session at SEFM 2026 presents the FM4All initiative. We will inform the community about the context in which we started our work, our design choices and planned developments and gather feedback to prioritize concepts and validate structures. This is the plan of work:
+
+- Need to teach Formal Methods (FM) - Why?
+- Current FM representation in curricula - What?
+- What actions to pursue - How?
+
+The session will be interactive, alternating content presentation with opinion polls. We will introduce a plan for structured community involvement in the process; the first step for that is a Community Feedback form regarding our work, already available [here](https://forms.gle/8hWsofYs3egAiGkb8). An earlier (2024) discussion on the reasons for defining a “knowledge area” dedicated to Formal Methods can be found [here]( https://fme-teaching.github.io/#curriculum). 
 
 
 

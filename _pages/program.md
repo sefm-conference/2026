@@ -39,14 +39,14 @@ Details on the respective workshop programmes can be found [here](https://sefm-c
 | *16:00 – 16:30* | **Formal Verification and Program Reasoning** |  Modular Composition of Inductive Types Using Lean Meta-programming | *Ramy Shahin* |
 | *16:30 – 17:00* | **Formal Verification and Program Reasoning** | Verifying a Rust Bitmap Allocator in RocQ | *Rahul Sankalana Gunawardhana, Narges Khakpour and Conrad Grobler* |
 | *17:00 – 17:30* | **Formal Verification and Program Reasoning** |  Practical Range Refinement Types with Inference | *Valentin Aebi and Carlo A. Furia* |
-
+| *09:00 – 10:00* | **[FM4All](https://www.fmeurope.org/2026/05/20/fm4all-guidelines-for-teaching-formal-methods/) initiative** |  FME Guidelines for Teaching Formal Methods as a Knowledge Area in the ACM Curriculum | *Elvinia Riccobene*|
 
 
 ## Thursday, November 26
 
 | Time | Session | Details | Authors|
 |------|----------|--------------|---------------|
-| *09:00 – 10:00* | **Invited Talk** |  From Intent to Guarantees: Building Trustworthy Software Systems | *Dalal Alrajeh*|
+| *09:00 – 10:00* | **Invited Talk** |  From Intent to Guarantees: Building Trustworthy Software Systems | *[Dalal Alrajeh]({% link _pages/keynotes.md %}#dalal-alrajeh)*|
 | *10:00 – 10:30* | **Coffee break** | Second Floor | |
 | *10:30 – 11:00* | **Testing, Monitoring and Assurance** |  Integrating Parallel Trace Abstraction and Explicit Exploration for Test-Case Generation | *Max Barth and Marie-Christine Jakobs* |
 | *11:00 – 11:30* | **Testing, Monitoring and Assurance** |  Metamorphic Testing for Floating-Point Performance Issues in SMT Solvers | *Rosa Abbasi and Eva Darulova* |
