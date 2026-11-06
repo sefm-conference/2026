@@ -46,7 +46,7 @@ Details on the respective workshop programmes can be found [here](https://sefm-c
 
 | Time | Session | Details | Authors|
 |------|----------|--------------|---------------|
-| *09:00 – 10:00* | **Invited Talk** |  From Intent to Guarantees: Building Trustworthy Software Systems | *[Dalal Alrajeh]({% link _pages/2026/_pages/keynotes.md %}#dalal-alrajeh)*|
+| *09:00 – 10:00* | **Invited Talk** |  From Intent to Guarantees: Building Trustworthy Software Systems | *[Dalal Alrajeh]({% _pages/keynotes.md %}#dalal-alrajeh)*|
 | *10:00 – 10:30* | **Coffee break** | Second Floor | |
 | *10:30 – 11:00* | **Testing, Monitoring and Assurance** |  Integrating Parallel Trace Abstraction and Explicit Exploration for Test-Case Generation | *Max Barth and Marie-Christine Jakobs* |
 | *11:00 – 11:30* | **Testing, Monitoring and Assurance** |  Metamorphic Testing for Floating-Point Performance Issues in SMT Solvers | *Rosa Abbasi and Eva Darulova* |
