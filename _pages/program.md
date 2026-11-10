@@ -35,9 +35,9 @@ Details on the respective workshop programmes can be found [here](https://sefm-c
 | *14:00 – 14:30* | **Security, Safety and Dependable Systems** |  Formally Verifying Noir Zero Knowledge Programs with NAVe | *Pedro Antonino and Namrata Jain* |
 | *14:30 – 15:00* | **Security, Safety and Dependable Systems** |  SMAC: A Calculus for Verifying Memory Arrays in Isabelle/Solidity | *Diego Marmsoler and Asad Ahmed* |
 | *15:00 – 15:30* | **Coffee break** | Second floor | |
-| *15:30 – 16:00* | **Formal Verification and Program Reasoning** |  Verifying Numerical Methods with Isabelle/HOL | *Dustin Bryant, Jonathan Julian Huerta Y Munive and Simon Foster* | 
+| *15:30 – 16:00* | **Formal Verification and Program Reasoning** |  Verifying Numerical Methods with Isabelle/HOL | *Dustin Bryant, Jonathan Julian Huerta y Munive and Simon Foster* | 
 | *16:00 – 16:30* | **Formal Verification and Program Reasoning** |  Modular Composition of Inductive Types Using Lean Meta-programming | *Ramy Shahin* |
-| *16:30 – 17:00* | **Formal Verification and Program Reasoning** | Verifying a Rust Bitmap Allocator in RocQ | *Rahul Sankalana Gunawardhana, Narges Khakpour and Conrad Grobler* |
+| *16:30 – 17:00* | **Formal Verification and Program Reasoning** | Verifying a Rust Bitmap Allocator in Rocq | *Rahul Sankalana Gunawardhana, Narges Khakpour and Conrad Grobler* |
 | *17:00 – 17:30* | **Formal Verification and Program Reasoning** |  Practical Range Refinement Types with Inference | *Valentin Aebi and Carlo A. Furia* |
 | *17:30 – 18:30* | **[FM4All](https://www.fmeurope.org/2026/05/20/fm4all-guidelines-for-teaching-formal-methods/) initiative** |  FME Guidelines for Teaching Formal Methods as a Knowledge Area in the ACM Curriculum | *[Elvinia Riccobene](../keynotes/#elvinia-riccobene)*|
 
