@@ -13,16 +13,21 @@ After the Jesuits were expelled in 1768, the Order of St. John took over, mainta
 
 Today, it hosts several institutions, including the CEU, RIDT, Conflict Resolution Centre, and the International Institute for Justice and the Rule of Law.
 
----
 
-# Conference dinner
+## Conference dinner
 
-<!-- <a href="/assets/images/malta/rampila_menu.pdf" target="_blank" rel="noopener"> -->
+
+
 <a href="{{ site.baseurl }}{% link assets/images/malta/rampila_menu.pdf %}" target="_blank" rel="noopener">
   <button type="button">View menu</button>
 </a>
 
+
+
+
 <!--
+
+
 
 SEFM 2025 will take place at the University of Castilla-La Mancha (UCLM) in Toledo, Spain.
 
