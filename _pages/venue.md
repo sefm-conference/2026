@@ -28,7 +28,7 @@ Originally constructed by the Knights of St John in the sixteenth century as par
 
 #### Menu and drinks
 
-The Rampila menu can be viewed using the **View menu** button.
+The Rampila menu can be viewed <a href="/2026/assets/images/malta/rampila_menu.pdf" target="_blank" rel="noopener">here</a>.
 
 Guests will be asked to make their menu selections upon arrival at the restaurant, choosing **one starter, one main course and one dessert**. The dinner package also includes half a bottle of wine, half a bottle of water and coffee per person.
 
