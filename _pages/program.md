@@ -61,7 +61,7 @@ Details on the respective workshop programmes can be found [here](https://sefm-c
 | *16:00 – 16:30* | **Testing, Monitoring and Assurance** |  Verifying Autoware Controller Node by Combining Model Verification and Runtime Monitoring | *Daisuke Ishii* |
 | *16:30 – 17:00* | **Testing, Monitoring and Assurance** | Policy-Guided Test Generation for Autonomous Driving Systems via Probabilistic Model Checking | *Srajan Goyal, Radu Calinescu, Alberto Griggio, Ioannis Stefanakos and Stefano Tonetta* |
 | *17:00 – 17:30* | **Testing, Monitoring and Assurance** |  Formal Verification of Stability in Provisioning Changes with BPlan | *Eloi Perdereau, Daniel Sokolowski, Jolan Philippe, Hélène Coullon and Guido Salvaneschi* |
-| *19:00 – 21:30* | **Conference Dinner** |  *[Rampila Restaurant](https://maps.app.goo.gl/L7ma6CE2ULn4PArZ6)* |  |
+| *19:00 – 21:30* | **Conference Dinner** |  *[Rampila Restaurant](https://maps.app.goo.gl/ZrxPE5ZKSvKoGV2Z8)* |  |
 
 
 ## Friday, November 27
