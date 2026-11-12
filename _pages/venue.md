@@ -24,8 +24,8 @@ Situated within the historic bastions of Valletta, Malta’s capital, Rampila of
 
 Originally constructed by the Knights of St John in the sixteenth century as part of the fortifications protecting the newly founded city, the site has since been transformed into an atmospheric restaurant. Today, Rampila features a restaurant, a private dining vault, a terrace and an exhibition space, combining fine food and wine with the architectural splendour of its Baroque surroundings.
 
----
-</br>
+
+
 
 ### Menu and drinks
 
