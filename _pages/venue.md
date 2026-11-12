@@ -26,7 +26,7 @@ Originally constructed by the Knights of St John in the sixteenth century as par
 
 ---
 
-#### Menu and drinks
+### Menu and drinks
 
 The Rampila menu can be viewed <a href="/2026/assets/images/malta/rampila_menu.pdf" target="_blank" rel="noopener">here</a>.
 
@@ -34,11 +34,11 @@ Guests will be asked to make their menu selections upon arrival at the restauran
 
 *Please note that any additional drinks will be charged separately.*
 
-#### Seating arrangements
+### Seating arrangements
 
 Seating will be available both **indoors** and **outdoors** on the restaurant's terrace, which is equipped with umbrellas and heaters.
 
-> **Important:** November evenings in Malta can be quite chilly. Guests are therefore advised to bring a jacket, coat or shawl, particularly if seated outdoors.
+> November evenings in Malta can be quite chilly. Guests are therefore advised to bring a jacket, coat or shawl, particularly if seated outdoors.
 
 
 
