@@ -31,15 +31,15 @@ Originally constructed by the Knights of St John in the sixteenth century as par
 
 The Rampila menu can be viewed <a href="/2026/assets/images/malta/rampila_menu.pdf" target="_blank" rel="noopener">here</a>.
 
-Guests will be asked to make their menu selections upon arrival at the restaurant, choosing **one starter, one main course, and one dessert**. The dinner package also includes half a bottle of wine, half a bottle of water and coffee per person.
+Guests will be asked to make their menu selections upon arrival at the restaurant, choosing **one starter, one main course, and one dessert**. The dinner package also includes half a bottle of wine, half a bottle of water, and a coffee per person.
 
 *Please note that any additional drinks will be charged separately.*
 
 ### Seating arrangements
 
-Seating will be available both **indoors** and **outdoors** on the restaurant's terrace, which is equipped with umbrellas and heaters.
+Seating will be available both indoors and outdoors on the restaurant's terrace, which is equipped with umbrellas and heaters.
 
-> November evenings in Malta can be quite chilly. Guests are therefore advised to bring a jacket, coat or shawl, particularly if seated outdoors.
+November evenings in Malta can be quite chilly. Guests are therefore advised to bring a jacket, coat or shawl, particularly if seated outdoors.
 
 
 
