@@ -18,7 +18,7 @@ Today, it hosts several institutions, including the CEU, RIDT, Conflict Resoluti
 
 
 
-### Conference dinner at Rampila
+## Conference dinner at Rampila
 
 Situated within the historic bastions of Valletta, Malta’s capital, Rampila offers a distinctive dining experience in a setting rich in history and character.
 
