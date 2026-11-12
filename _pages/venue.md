@@ -17,15 +17,28 @@ After the Jesuits were expelled in 1768, the Order of St. John took over, mainta
 Today, it hosts several institutions, including the CEU, RIDT, Conflict Resolution Centre, and the International Institute for Justice and the Rule of Law.
 
 
-## Conference dinner at Rampila
 
-Situated within the historic bastions of Valletta, Malta’s capital, Rampila offers a distinctive dining experience in a setting rich in history and character. Originally constructed by the Knights of St John in the sixteenth century as part of the fortifications protecting the newly founded city, the site has since been transformed into an atmospheric restaurant. Today, Rampila features a restaurant, a private dining vault, a terrace and an exhibition space, combining fine food and wine with the architectural splendour of its Baroque surroundings.
+### Conference dinner at Rampila
 
-The Rampila menu can be viewed <a href="{{ site.baseurl }}{% link assets/images/malta/rampila_menu.pdf %}" target="_blank" rel="noopener"><button type="button">View menu</button></a>.
+Situated within the historic bastions of Valletta, Malta’s capital, Rampila offers a distinctive dining experience in a setting rich in history and character.
 
-Guests will be asked to make their menu selections upon arrival at the restaurant. The menu includes half a bottle of wine, half a bottle of water and coffee per person. Any additional drinks will be charged separately.
+Originally constructed by the Knights of St John in the sixteenth century as part of the city's fortifications, the site has since been transformed into an atmospheric restaurant. Today, Rampila combines fine food and wine with the architectural splendour of its historic surroundings.
 
-Seating will be arranged both indoors and outdoors on the restaurant's terrace, which is equipped with umbrellas and heaters. However, as November evenings in Malta can be rather chilly, guests seated outdoors are advised to bring a jacket, coat or shawl to ensure their comfort throughout the evening.
+---
+
+#### Menu and drinks
+
+The Rampila menu can be viewed using the **View menu** button.
+
+Guests will be asked to make their menu selections upon arrival at the restaurant, choosing **one starter, one main course and one dessert**. The dinner package also includes half a bottle of wine, half a bottle of water and coffee per person.
+
+*Please note that any additional drinks will be charged separately.*
+
+#### Seating arrangements
+
+Seating will be available both **indoors** and **outdoors** on the restaurant's terrace, which is equipped with umbrellas and heaters.
+
+> **Important:** November evenings in Malta can be quite chilly. Guests are therefore advised to bring a jacket, coat or shawl, particularly if seated outdoors.
 
 
 
