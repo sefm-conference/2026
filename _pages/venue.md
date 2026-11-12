@@ -17,7 +17,8 @@ Today, it hosts several institutions, including the CEU, RIDT, Conflict Resoluti
 
 # Conference dinner
 
-<a href="/assets/images/malta/rampila_menu.pdf" target="_blank" rel="noopener">
+<!-- <a href="/assets/images/malta/rampila_menu.pdf" target="_blank" rel="noopener"> -->
+<a href="{{ site.baseurl }}{% link assets/images/malta/rampila_menu.pdf %}" target="_blank" rel="noopener">
   <button type="button">View menu</button>
 </a>
 
